@@ -1,0 +1,58 @@
+.skillsSection {
+  background: rgba(13, 20, 36, 0.3);
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+}
+.skillCard {
+  padding: 20px 24px;
+  animation: fadeInUp 0.5s ease both;
+}
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.skillHeader {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+.skillIcon { font-size: 24px; }
+.skillName {
+  font-size: 15px;
+  font-weight: 700;
+  color: #f1f5f9;
+}
+.skillCategory {
+  font-size: 12px;
+  color: #64748b;
+  font-weight: 500;
+}
+.skillLevel {
+  margin-left: auto;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: 'Fira Code', monospace;
+}
+.progressBg {
+  height: 6px;
+  background: rgba(255,255,255,0.06);
+  border-radius: 100px;
+  overflow: hidden;
+}
+.progressBar {
+  height: 100%;
+  width: var(--width);
+  background: var(--color);
+  border-radius: 100px;
+  position: relative;
+  animation: grow 1.2s ease both;
+  box-shadow: 0 0 8px var(--color);
+}
+@keyframes grow {
+  from { width: 0; }
+  to { width: var(--width); }
+}
