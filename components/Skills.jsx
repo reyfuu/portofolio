@@ -4,6 +4,7 @@ import styles from './Skills.module.css';
 const skills = [
   { name: 'React', level: 90, color: '#61DAFB', icon: '⚛️', category: 'Frontend' },
   { name: 'Vue.js', level: 85, color: '#42b883', icon: '💚', category: 'Frontend' },
+  { name: 'Next.js', level: 80, color: '#000000', icon: '⬛', category: 'Frontend' },
   { name: 'JavaScript', level: 92, color: '#F7DF1E', icon: '🟨', category: 'Language' },
   { name: 'Laravel', level: 88, color: '#FF2D20', icon: '🔴', category: 'Backend' },
   { name: 'Express.js', level: 85, color: '#68A063', icon: '🟢', category: 'Backend' },
