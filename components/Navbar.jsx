@@ -1,3 +1,5 @@
+// Navbar component with scroll-aware styling, smooth section navigation, and mobile menu toggle.
+// It tracks scroll state, toggles mobile menu, and smoothly scrolls to sections.
 'use client';
 
 import { useState, useEffect } from 'react';
@@ -16,6 +18,7 @@ export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [activeSection, setActiveSection] = useState('');
 
+  // Track window scroll position to apply a sticky navbar style after scrolling.
   useEffect(() => {
     const handleScroll = () => {
       setScrolled(window.scrollY > 50);
@@ -24,6 +27,8 @@ export default function Navbar() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
+  // Handle navigation clicks by smoothly scrolling to the target section.
+  // Also closes the mobile menu after navigation.
   const handleNavClick = (e, href) => {
     e.preventDefault();
     const el = document.querySelector(href);
@@ -54,6 +59,14 @@ export default function Navbar() {
             </li>
           ))}
         </ul>
+
+        <a
+          href="/CV_IT_Operations_Engineer.pdf"
+          className="btn"
+          style={{ marginRight: '8px' }}
+        >
+          Download CV
+        </a>
 
         <a
           href="#contact"

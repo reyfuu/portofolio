@@ -1,24 +1,30 @@
+// Skills section showing technology proficiencies with progress visuals.
+// It maps skill data into animated cards and renders progress bars.
 'use client';
 import styles from './Skills.module.css';
 
 const skills = [
-  { name: 'React', level: 90, color: '#61DAFB', icon: '⚛️', category: 'Frontend' },
-  { name: 'Vue.js', level: 85, color: '#42b883', icon: '💚', category: 'Frontend' },
-  { name: 'Next.js', level: 80, color: '#000000', icon: '⬛', category: 'Frontend' },
-  { name: 'JavaScript', level: 92, color: '#F7DF1E', icon: '🟨', category: 'Language' },
-  { name: 'Laravel', level: 88, color: '#FF2D20', icon: '🔴', category: 'Backend' },
-  { name: 'Express.js', level: 85, color: '#68A063', icon: '🟢', category: 'Backend' },
-  { name: 'Node.js', level: 82, color: '#339933', icon: '🟩', category: 'Backend' },
+  { name: 'React', level: 90, color: '#61DAFB', category: 'Frontend' },
+  { name: 'Vue.js', level: 85, color: '#42b883', category: 'Frontend' },
+  { name: 'Next.js', level: 80, color: '#111827', category: 'Frontend' },
+  { name: 'JavaScript', level: 92, color: '#F7DF1E', category: 'Language' },
+  { name: 'Laravel', level: 88, color: '#FF2D20', category: 'Backend' },
+  { name: 'Express.js', level: 85, color: '#68A063', category: 'Backend' },
+  { name: 'Node.js', level: 82, color: '#339933', category: 'Backend' },
   { name: 'HTML/CSS', level: 95, color: '#E34F26', icon: '🎨', category: 'Frontend' },
-  { name: 'MySQL', level: 80, color: '#4479A1', icon: '🗄️', category: 'Database' },
-  { name: 'Git', level: 88, color: '#F05032', icon: '🔀', category: 'Tools' },
-  { name: 'Docker', level: 70, color: '#2496ED', icon: '🐳', category: 'Tools' },
-  { name: 'TypeScript', level: 78, color: '#3178C6', icon: '🔷', category: 'Language' },
-  { name: 'REST API', level: 90, color: '#8b5cf6', icon: '🔗', category: 'Backend' },
+  { name: 'MySQL', level: 80, color: '#4479A1', category: 'Database' },
+  { name: 'PostgreSQL', level: 82, color: '#336791', category: 'Database' },
+  { name: 'Django', level: 80, color: '#0C4B33', category: 'Backend' },
+  { name: 'Git', level: 88, color: '#F05032', category: 'Tools' },
+  { name: 'Docker', level: 70, color: '#2496ED', category: 'Tools' },
+  { name: 'Kubernetes', level: 65, color: '#326CE5', category: 'Tools' },
+  { name: 'TypeScript', level: 78, color: '#3178C6', category: 'Language' },
+  { name: 'REST API', level: 90, color: '#8b5cf6', category: 'Backend' },
 ];
 
 const categories = ['All', 'Frontend', 'Backend', 'Language', 'Database', 'Tools'];
 
+// Skills component renders the tech stack section using progress cards.
 export default function Skills() {
   return (
     <section id="skills" className={`section ${styles.skillsSection}`}>
@@ -32,7 +38,7 @@ export default function Skills() {
           {skills.map((skill, i) => (
             <div key={skill.name} className={`glass-card ${styles.skillCard}`} style={{ animationDelay: `${i * 0.05}s` }}>
               <div className={styles.skillHeader}>
-                <span className={styles.skillIcon}>{skill.icon}</span>
+                {/* icons removed as requested */}
                 <div>
                   <div className={styles.skillName}>{skill.name}</div>
                   <div className={styles.skillCategory}>{skill.category}</div>

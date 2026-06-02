@@ -1,3 +1,5 @@
+// Contact section with contact details, social links, and a simulated message form.
+// It includes a simple form state and submit handling to display a success message.
 'use client';
 import { useState } from 'react';
 import styles from './Contact.module.css';
@@ -26,6 +28,7 @@ export default function Contact() {
   const [form, setForm] = useState({ name: '', email: '', message: '' });
   const [sent, setSent] = useState(false);
 
+  // Simulated form submission handler that shows a temporary success message.
   const handleSubmit = (e) => {
     e.preventDefault();
     setSent(true);

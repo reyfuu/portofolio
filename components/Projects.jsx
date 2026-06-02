@@ -1,42 +1,62 @@
+// Projects showcase component with featured project cards and action links.
+// It displays a set of portfolio items with GitHub and live demo links.
 'use client';
 import styles from './Projects.module.css';
 
 const projects = [
   {
-    title: 'E-Commerce Platform',
-    desc: 'Full-featured online store with cart, payment gateway, admin dashboard, and real-time inventory management.',
-    tags: ['React', 'Laravel', 'MySQL', 'Stripe'],
+    title: 'E-Library Platform',
+    desc: 'Digital library with user authentication, borrowing system, search, recommendations, and admin dashboard.',
+    tags: [
+      { name: 'Django', icon: '🐍' },
+      { name: 'PostgreSQL', icon: '🐘' },
+      { name: 'React', icon: '⚛️' },
+      { name: 'Docker', icon: '🐳' },
+      { name: 'Kubernetes', icon: '☸️' },
+    ],
     color: '#8b5cf6',
-    emoji: '🛒',
-    github: '#',
-    demo: '#',
+    emoji: '📚',
+    github: 'https://github.com/reyfuu/e-library',
+    demo: 'https://github.com/reyfuu/e-library',
   },
   {
-    title: 'Task Management App',
-    desc: 'Collaborative project management tool with drag-and-drop boards, real-time updates, and team workspaces.',
-    tags: ['Vue.js', 'Express.js', 'Socket.io', 'MongoDB'],
+    title: 'FinTrack',
+    desc: 'Personal finance tracker with budgeting, transaction import/export, charts, and recurring payments.',
+    tags: [
+      { name: 'Django', icon: '🐍' },
+      { name: 'PostgreSQL', icon: '🐘' },
+      { name: 'Celery', icon: '⚡' },
+      { name: 'Redis', icon: '🔴' },
+      { name: 'Docker', icon: '🐳' },
+    ],
     color: '#06b6d4',
-    emoji: '📋',
-    github: '#',
-    demo: '#',
+    emoji: '💰',
+    github: 'https://github.com/reyfuu/fintrack',
+    demo: 'https://github.com/reyfuu/fintrack',
   },
   {
-    title: 'Social Media Dashboard',
-    desc: 'Analytics dashboard aggregating social media data with beautiful charts, scheduling, and auto-posting features.',
-    tags: ['React', 'Node.js', 'PostgreSQL', 'Chart.js'],
+    title: 'Learning Platform',
+    desc: 'Online learning platform with courses, video streaming, quizzes, progress tracking, and subscriptions.',
+    tags: [
+      { name: 'Django', icon: '🐍' },
+      { name: 'PostgreSQL', icon: '🐘' },
+      { name: 'React', icon: '⚛️' },
+      { name: 'Stripe', icon: '💳' },
+      { name: 'Kubernetes', icon: '☸️' },
+    ],
     color: '#ec4899',
-    emoji: '📊',
-    github: '#',
-    demo: '#',
+    emoji: '🎓',
+    github: 'https://github.com/reyfuu/learning-platform',
+    demo: 'https://github.com/reyfuu/learning-platform',
   },
   {
-    title: 'REST API Gateway',
-    desc: 'Scalable microservices API gateway with rate limiting, JWT authentication, caching, and detailed logging.',
-    tags: ['Express.js', 'Redis', 'Docker', 'JWT'],
+    title: 'Thesis Management App',
+    desc: 'Thesis management application used in UKDC for tracking research progress, approvals, and academic workflows.',
+    tags: ['Django', 'PostgreSQL', 'React', 'Docker'],
     color: '#f59e0b',
-    emoji: '🔌',
-    github: '#',
-    demo: '#',
+    emoji: '🎓',
+    github: 'https://github.com/reyfuu/new-monitoring',
+    demo: 'https://github.com/reyfuu/new-monitoring',
   },
   {
     title: 'Blog CMS Platform',
@@ -58,6 +78,7 @@ const projects = [
   },
 ];
 
+// Projects component renders the portfolio section with project cards.
 export default function Projects() {
   return (
     <section id="projects" className="section">
@@ -92,7 +113,7 @@ export default function Projects() {
                 <p className={styles.cardDesc}>{p.desc}</p>
                 <div className={styles.tags}>
                   {p.tags.map((tag) => (
-                    <span key={tag} className={styles.tag}>{tag}</span>
+                    <span key={tag.name} className={styles.tag}>{tag.name}</span>
                   ))}
                 </div>
               </div>

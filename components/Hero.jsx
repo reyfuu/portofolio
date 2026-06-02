@@ -1,3 +1,5 @@
+// Hero section component with animated background particles and dynamic typing text.
+// This component displays the main landing content and links to projects/contact.
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
@@ -11,6 +13,7 @@ const roles = [
   'UI/UX Enthusiast',
 ];
 
+// TypingText helper component animates rotating role text with type and delete effects.
 function TypingText({ texts }) {
   const [displayText, setDisplayText] = useState('');
   const [textIndex, setTextIndex] = useState(0);
@@ -52,12 +55,14 @@ function TypingText({ texts }) {
 export default function Hero() {
   const particlesRef = useRef(null);
 
+  // Initialize and animate floating particle background on component mount.
   useEffect(() => {
     const canvas = particlesRef.current;
     if (!canvas) return;
     const ctx = canvas.getContext('2d');
     let animFrame;
 
+    // Resize canvas to fill the viewport and keep particle animation responsive.
     const resize = () => {
       canvas.width = window.innerWidth;
       canvas.height = window.innerHeight;

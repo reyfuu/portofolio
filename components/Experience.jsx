@@ -1,3 +1,5 @@
+// Experience timeline section displaying professional roles, achievements, and skills.
+// It maps through experience data to render animated timeline cards.
 'use client';
 import styles from './Experience.module.css';
 
@@ -40,6 +42,7 @@ const experiences = [
   },
 ];
 
+// Experience component renders the professional timeline section.
 export default function Experience() {
   return (
     <section id="experience" className={`section ${styles.expSection}`}>
