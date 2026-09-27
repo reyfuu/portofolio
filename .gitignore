@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local agent tools and generated graph cache
+/.agents/
+/.gstack/
+/graphify-out/

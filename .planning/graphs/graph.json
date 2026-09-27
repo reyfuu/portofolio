@@ -13,7 +13,7 @@
       "_origin": "ast",
       "id": "src_components_projectmodal_projectmodalprops",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "projectmodalprops"
     },
     {
@@ -26,7 +26,7 @@
       "_origin": "ast",
       "id": "src_components_projectsshowcase_projectsshowcaseprops",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "projectsshowcaseprops"
     },
     {
@@ -39,7 +39,7 @@
       "_origin": "ast",
       "id": "src_components_terminalcli_outputline",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "outputline"
     },
     {
@@ -52,7 +52,7 @@
       "_origin": "ast",
       "id": "src_data_projects_githubrepo",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "githubrepo"
     },
     {
@@ -65,7 +65,7 @@
       "_origin": "ast",
       "id": "src_data_projects_project",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "project"
     },
     {
@@ -78,7 +78,7 @@
       "_origin": "ast",
       "id": "src_data_projects_projectcategory",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "projectcategory"
     },
     {
@@ -91,7 +91,7 @@
       "_origin": "ast",
       "id": "src_lib_github_githubprofile",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "githubprofile"
     },
     {
@@ -103,7 +103,7 @@
       "_callable_class": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": "interactiveterminal"
     },
@@ -116,7 +116,7 @@
       "_origin": "ast",
       "id": "src_app_page_homepage",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "homepage()"
     },
     {
@@ -128,7 +128,7 @@
       "_origin": "ast",
       "id": "src_components_contact_contact",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "contact()"
     },
     {
@@ -140,7 +140,7 @@
       "_origin": "ast",
       "id": "src_components_experience_experience",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "experience()"
     },
     {
@@ -152,7 +152,7 @@
       "_origin": "ast",
       "id": "src_components_hero_hero",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "hero()"
     },
     {
@@ -164,7 +164,7 @@
       "_origin": "ast",
       "id": "src_components_projectmodal_projectmodal",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "projectmodal()"
     },
     {
@@ -176,7 +176,7 @@
       "_origin": "ast",
       "id": "src_components_projectsshowcase_projectsshowcase",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "projectsshowcase()"
     },
     {
@@ -188,7 +188,7 @@
       "_origin": "ast",
       "id": "src_components_techmatrix_techmatrix",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "techmatrix()"
     },
     {
@@ -200,7 +200,7 @@
       "_origin": "ast",
       "id": "src_components_terminalcli_terminalcli",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "terminalcli()"
     },
     {
@@ -212,7 +212,7 @@
       "_origin": "ast",
       "id": "src_data_projects_getlanguages",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "getlanguages()"
     },
     {
@@ -224,7 +224,7 @@
       "_origin": "ast",
       "id": "src_data_projects_toproject",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "toproject()"
     },
     {
@@ -236,7 +236,7 @@
       "_origin": "ast",
       "id": "src_lib_github_getgithubprofile",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "getgithubprofile()"
     },
     {
@@ -248,7 +248,7 @@
       "_origin": "ast",
       "id": "src_lib_github_getrepositories",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "getrepositories()"
     },
     {
@@ -260,7 +260,7 @@
       "_origin": "ast",
       "id": "src_lib_terminal_commands_escapehtml",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "escapehtml()"
     },
     {
@@ -272,116 +272,8 @@
       "_origin": "ast",
       "id": "src_lib_terminal_commands_executecommand",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "executecommand()"
-    },
-    {
-      "label": "RootLayout()",
-      "file_type": "code",
-      "source_file": "src/app/layout.tsx",
-      "source_location": "L71",
-      "_callable": true,
-      "_origin": "ast",
-      "id": "src_app_layout_rootlayout",
-      "community": 10,
-      "community_name": "layout.tsx",
-      "norm_label": "rootlayout()"
-    },
-    {
-      "label": "Footer()",
-      "file_type": "code",
-      "source_file": "src/components/Footer.tsx",
-      "source_location": "L3",
-      "_callable": true,
-      "_origin": "ast",
-      "id": "src_components_footer_footer",
-      "community": 10,
-      "community_name": "layout.tsx",
-      "norm_label": "footer()"
-    },
-    {
-      "label": "Navbar()",
-      "file_type": "code",
-      "source_file": "src/components/Navbar.tsx",
-      "source_location": "L12",
-      "_callable": true,
-      "_origin": "ast",
-      "id": "src_components_navbar_navbar",
-      "community": 10,
-      "community_name": "layout.tsx",
-      "norm_label": "navbar()"
-    },
-    {
-      "label": "get()",
-      "file_type": "code",
-      "source_file": "scripts/sync-github.mjs",
-      "source_location": "L4",
-      "_callable": true,
-      "_origin": "ast",
-      "id": "scripts_sync_github_get",
-      "community": 13,
-      "community_name": "sync-github.mjs",
-      "norm_label": "get()"
-    },
-    {
-      "label": "Philosophy()",
-      "file_type": "code",
-      "source_file": "src/components/Philosophy.tsx",
-      "source_location": "L21",
-      "_callable": true,
-      "_origin": "ast",
-      "id": "src_components_philosophy_philosophy",
-      "community": 17,
-      "community_name": "Philosophy.tsx",
-      "norm_label": "philosophy()"
-    },
-    {
-      "label": "App()",
-      "file_type": "code",
-      "source_file": "vite-check/src/App.jsx",
-      "source_location": "L9",
-      "_callable": true,
-      "_origin": "ast",
-      "id": "vite_check_src_app_app",
-      "community": 19,
-      "community_name": "App.jsx",
-      "norm_label": "app()"
-    },
-    {
-      "label": "GlobalError()",
-      "file_type": "code",
-      "source_file": "src/app/error.tsx",
-      "source_location": "L5",
-      "_callable": true,
-      "_origin": "ast",
-      "id": "src_app_error_globalerror",
-      "community": 23,
-      "community_name": "error.tsx",
-      "norm_label": "globalerror()"
-    },
-    {
-      "label": "NotFound()",
-      "file_type": "code",
-      "source_file": "src/app/not-found.tsx",
-      "source_location": "L4",
-      "_callable": true,
-      "_origin": "ast",
-      "id": "src_app_not_found_notfound",
-      "community": 24,
-      "community_name": "not-found.tsx",
-      "norm_label": "notfound()"
-    },
-    {
-      "label": "AmbientCanvas()",
-      "file_type": "code",
-      "source_file": "src/components/AmbientCanvas.tsx",
-      "source_location": "L5",
-      "_callable": true,
-      "_origin": "ast",
-      "id": "src_components_ambientcanvas_ambientcanvas",
-      "community": 25,
-      "community_name": "AmbientCanvas.tsx",
-      "norm_label": "ambientcanvas()"
     },
     {
       "label": ".appendOutput()",
@@ -391,7 +283,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_appendoutput",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".appendoutput()"
     },
@@ -403,7 +295,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_attachevents",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".attachevents()"
     },
@@ -415,7 +307,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_cmdai",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".cmdai()"
     },
@@ -427,7 +319,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_cmdbackend",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".cmdbackend()"
     },
@@ -439,7 +331,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_cmdbio",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".cmdbio()"
     },
@@ -451,7 +343,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_cmdclear",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".cmdclear()"
     },
@@ -463,7 +355,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_cmdcontact",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".cmdcontact()"
     },
@@ -475,7 +367,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_cmddevops",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".cmddevops()"
     },
@@ -487,7 +379,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_cmdhelp",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".cmdhelp()"
     },
@@ -499,7 +391,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_cmdmatrix",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".cmdmatrix()"
     },
@@ -511,7 +403,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_cmdprojects",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".cmdprojects()"
     },
@@ -523,7 +415,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_cmdskills",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".cmdskills()"
     },
@@ -535,7 +427,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_cmdstats",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".cmdstats()"
     },
@@ -547,7 +439,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_cmdsudo",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".cmdsudo()"
     },
@@ -559,7 +451,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_constructor",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".constructor()"
     },
@@ -571,7 +463,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_escapehtml",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".escapehtml()"
     },
@@ -583,7 +475,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_execute",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".execute()"
     },
@@ -595,7 +487,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_printwelcome",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".printwelcome()"
     },
@@ -607,9 +499,81 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_terminal_interactiveterminal_render",
-      "community": 3,
+      "community": 1,
       "community_name": "InteractiveTerminal",
       "norm_label": ".render()"
+    },
+    {
+      "label": "get()",
+      "file_type": "code",
+      "source_file": "scripts/sync-github.mjs",
+      "source_location": "L4",
+      "_callable": true,
+      "_origin": "ast",
+      "id": "scripts_sync_github_get",
+      "community": 11,
+      "community_name": "sync-github.mjs",
+      "norm_label": "get()"
+    },
+    {
+      "label": "Philosophy()",
+      "file_type": "code",
+      "source_file": "src/components/Philosophy.tsx",
+      "source_location": "L21",
+      "_callable": true,
+      "_origin": "ast",
+      "id": "src_components_philosophy_philosophy",
+      "community": 14,
+      "community_name": "Philosophy.tsx",
+      "norm_label": "philosophy()"
+    },
+    {
+      "label": "GlobalError()",
+      "file_type": "code",
+      "source_file": "src/app/error.tsx",
+      "source_location": "L5",
+      "_callable": true,
+      "_origin": "ast",
+      "id": "src_app_error_globalerror",
+      "community": 19,
+      "community_name": "error.tsx",
+      "norm_label": "globalerror()"
+    },
+    {
+      "label": "NotFound()",
+      "file_type": "code",
+      "source_file": "src/app/not-found.tsx",
+      "source_location": "L4",
+      "_callable": true,
+      "_origin": "ast",
+      "id": "src_app_not_found_notfound",
+      "community": 20,
+      "community_name": "not-found.tsx",
+      "norm_label": "notfound()"
+    },
+    {
+      "label": "AmbientCanvas()",
+      "file_type": "code",
+      "source_file": "src/components/AmbientCanvas.tsx",
+      "source_location": "L5",
+      "_callable": true,
+      "_origin": "ast",
+      "id": "src_components_ambientcanvas_ambientcanvas",
+      "community": 21,
+      "community_name": "AmbientCanvas.tsx",
+      "norm_label": "ambientcanvas()"
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "vite-check/src/App.jsx",
+      "source_location": "L9",
+      "_callable": true,
+      "_origin": "ast",
+      "id": "vite_check_src_app_app",
+      "community": 30,
+      "community_name": "App.jsx",
+      "norm_label": "app()"
     },
     {
       "label": "closeModal()",
@@ -619,7 +583,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_main_closemodal",
-      "community": 9,
+      "community": 7,
       "community_name": "main.js",
       "norm_label": "closemodal()"
     },
@@ -631,7 +595,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_main_escapehtml",
-      "community": 9,
+      "community": 7,
       "community_name": "main.js",
       "norm_label": "escapehtml()"
     },
@@ -643,7 +607,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_main_getcategorybadge",
-      "community": 9,
+      "community": 7,
       "community_name": "main.js",
       "norm_label": "getcategorybadge()"
     },
@@ -655,7 +619,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_main_getlangbadgeclass",
-      "community": 9,
+      "community": 7,
       "community_name": "main.js",
       "norm_label": "getlangbadgeclass()"
     },
@@ -667,7 +631,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_main_initambientbackground",
-      "community": 9,
+      "community": 7,
       "community_name": "main.js",
       "norm_label": "initambientbackground()"
     },
@@ -679,7 +643,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_main_initambientbackground_animate",
-      "community": 9,
+      "community": 7,
       "community_name": "main.js",
       "norm_label": "animate()"
     },
@@ -691,7 +655,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_main_initambientbackground_resize",
-      "community": 9,
+      "community": 7,
       "community_name": "main.js",
       "norm_label": "resize()"
     },
@@ -703,7 +667,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_main_openmodal",
-      "community": 9,
+      "community": 7,
       "community_name": "main.js",
       "norm_label": "openmodal()"
     },
@@ -715,7 +679,7 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_main_renderprojects",
-      "community": 9,
+      "community": 7,
       "community_name": "main.js",
       "norm_label": "renderprojects()"
     },
@@ -727,9 +691,45 @@
       "_callable": true,
       "_origin": "ast",
       "id": "js_main_updatestatscounters",
-      "community": 9,
+      "community": 7,
       "community_name": "main.js",
       "norm_label": "updatestatscounters()"
+    },
+    {
+      "label": "RootLayout()",
+      "file_type": "code",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L71",
+      "_callable": true,
+      "_origin": "ast",
+      "id": "src_app_layout_rootlayout",
+      "community": 8,
+      "community_name": "layout.tsx",
+      "norm_label": "rootlayout()"
+    },
+    {
+      "label": "Footer()",
+      "file_type": "code",
+      "source_file": "src/components/Footer.tsx",
+      "source_location": "L3",
+      "_callable": true,
+      "_origin": "ast",
+      "id": "src_components_footer_footer",
+      "community": 8,
+      "community_name": "layout.tsx",
+      "norm_label": "footer()"
+    },
+    {
+      "label": "Navbar()",
+      "file_type": "code",
+      "source_file": "src/components/Navbar.tsx",
+      "source_location": "L12",
+      "_callable": true,
+      "_origin": "ast",
+      "id": "src_components_navbar_navbar",
+      "community": 8,
+      "community_name": "layout.tsx",
+      "norm_label": "navbar()"
     },
     {
       "label": "page.tsx",
@@ -739,7 +739,7 @@
       "_origin": "ast",
       "id": "src_app_page",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "page.tsx"
     },
     {
@@ -750,7 +750,7 @@
       "_origin": "ast",
       "id": "src_app_page_revalidate",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "revalidate"
     },
     {
@@ -761,7 +761,7 @@
       "_origin": "ast",
       "id": "src_components_contact",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "contact.tsx"
     },
     {
@@ -772,7 +772,7 @@
       "_origin": "ast",
       "id": "src_components_experience",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "experience.tsx"
     },
     {
@@ -783,7 +783,7 @@
       "_origin": "ast",
       "id": "src_components_hero",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "hero.tsx"
     },
     {
@@ -794,7 +794,7 @@
       "_origin": "ast",
       "id": "src_components_projectmodal",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "projectmodal.tsx"
     },
     {
@@ -805,7 +805,7 @@
       "_origin": "ast",
       "id": "src_components_projectsshowcase",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "projectsshowcase.tsx"
     },
     {
@@ -816,7 +816,7 @@
       "_origin": "ast",
       "id": "src_components_techmatrix",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "techmatrix.tsx"
     },
     {
@@ -827,7 +827,7 @@
       "_origin": "ast",
       "id": "src_components_terminalcli",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "terminalcli.tsx"
     },
     {
@@ -838,7 +838,7 @@
       "_origin": "ast",
       "id": "src_data_projects",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "projects.ts"
     },
     {
@@ -849,7 +849,7 @@
       "_origin": "ast",
       "id": "src_data_projects_github_profile",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "github_profile"
     },
     {
@@ -860,7 +860,7 @@
       "_origin": "ast",
       "id": "src_data_projects_projects_data",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "projects_data"
     },
     {
@@ -871,7 +871,7 @@
       "_origin": "ast",
       "id": "src_data_projects_snapshot_date",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "snapshot_date"
     },
     {
@@ -882,7 +882,7 @@
       "_origin": "ast",
       "id": "src_lib_github",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "github.ts"
     },
     {
@@ -893,7 +893,7 @@
       "_origin": "ast",
       "id": "src_lib_terminal_commands",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "terminal-commands.ts"
     },
     {
@@ -904,7 +904,7 @@
       "_origin": "ast",
       "id": "tests_portfolio_test",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "portfolio.test.cjs"
     },
     {
@@ -915,7 +915,7 @@
       "_origin": "ast",
       "id": "tests_portfolio_test_assert",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "assert"
     },
     {
@@ -926,7 +926,7 @@
       "_origin": "ast",
       "id": "tests_portfolio_test_executecommand",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "{ executecommand }"
     },
     {
@@ -937,7 +937,7 @@
       "_origin": "ast",
       "id": "tests_portfolio_test_fs",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "fs"
     },
     {
@@ -948,7 +948,7 @@
       "_origin": "ast",
       "id": "tests_portfolio_test_projects_data_getlanguages",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "{ projects_data, getlanguages }"
     },
     {
@@ -959,7 +959,7 @@
       "_origin": "ast",
       "id": "tests_portfolio_test_test",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "{ test }"
     },
     {
@@ -970,415 +970,19 @@
       "_origin": "ast",
       "id": "tests_portfolio_test_ts",
       "community": 0,
-      "community_name": "projects.ts",
+      "community_name": "page.tsx",
       "norm_label": "ts"
     },
     {
-      "label": "tsconfig.json",
+      "label": "terminal.js",
       "file_type": "code",
-      "source_file": "tsconfig.json",
+      "source_file": "js/terminal.js",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "tsconfig",
+      "id": "js_terminal",
       "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "tsconfig.json"
-    },
-    {
-      "label": "compilerOptions",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L2",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "compileroptions"
-    },
-    {
-      "label": "allowJs",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L9",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_allowjs",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "allowjs"
-    },
-    {
-      "label": "baseUrl",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L20",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_baseurl",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "baseurl"
-    },
-    {
-      "label": "esModuleInterop",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L13",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_esmoduleinterop",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "esmoduleinterop"
-    },
-    {
-      "label": "incremental",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L19",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_incremental",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "incremental"
-    },
-    {
-      "label": "isolatedModules",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L17",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_isolatedmodules",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "isolatedmodules"
-    },
-    {
-      "label": "jsx",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L18",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_jsx",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "jsx"
-    },
-    {
-      "label": "lib",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L4",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_lib",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "lib"
-    },
-    {
-      "label": "module",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L14",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_module",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "module"
-    },
-    {
-      "label": "moduleResolution",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L15",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_moduleresolution",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "moduleresolution"
-    },
-    {
-      "label": "noEmit",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L12",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_noemit",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "noemit"
-    },
-    {
-      "label": "paths",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L21",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_paths",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "paths"
-    },
-    {
-      "label": "plugins",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L27",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_plugins",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "plugins"
-    },
-    {
-      "label": "resolveJsonModule",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L16",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_resolvejsonmodule",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "resolvejsonmodule"
-    },
-    {
-      "label": "skipLibCheck",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L10",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_skiplibcheck",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "skiplibcheck"
-    },
-    {
-      "label": "strict",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L11",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_strict",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "strict"
-    },
-    {
-      "label": "target",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L3",
-      "_origin": "ast",
-      "id": "tsconfig_compileroptions_target",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "target"
-    },
-    {
-      "label": "exclude",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L40",
-      "_origin": "ast",
-      "id": "tsconfig_exclude",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "exclude"
-    },
-    {
-      "label": "include",
-      "file_type": "code",
-      "source_file": "tsconfig.json",
-      "source_location": "L33",
-      "_origin": "ast",
-      "id": "tsconfig_include",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "include"
-    },
-    {
-      "label": "dom",
-      "file_type": "concept",
-      "source_file": "tsconfig.json",
-      "source_location": "L4",
-      "_origin": "ast",
-      "id": "ref_dom",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "dom"
-    },
-    {
-      "label": "dom.iterable",
-      "file_type": "concept",
-      "source_file": "tsconfig.json",
-      "source_location": "L4",
-      "_origin": "ast",
-      "id": "ref_dom_iterable",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "dom.iterable"
-    },
-    {
-      "label": "esnext",
-      "file_type": "concept",
-      "source_file": "tsconfig.json",
-      "source_location": "L4",
-      "_origin": "ast",
-      "id": "ref_esnext",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "esnext"
-    },
-    {
-      "label": ".next/dev/types/**/*.ts",
-      "file_type": "concept",
-      "source_file": "tsconfig.json",
-      "source_location": "L33",
-      "_origin": "ast",
-      "id": "ref_next_dev_types_ts",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": ".next/dev/types/**/*.ts"
-    },
-    {
-      "label": "next-env.d.ts",
-      "file_type": "concept",
-      "source_file": "tsconfig.json",
-      "source_location": "L33",
-      "_origin": "ast",
-      "id": "ref_next_env_d_ts",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "next-env.d.ts"
-    },
-    {
-      "label": ".next/types/**/*.ts",
-      "file_type": "concept",
-      "source_file": "tsconfig.json",
-      "source_location": "L33",
-      "_origin": "ast",
-      "id": "ref_next_types_ts",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": ".next/types/**/*.ts"
-    },
-    {
-      "label": "node_modules",
-      "file_type": "concept",
-      "source_file": "tsconfig.json",
-      "source_location": "L40",
-      "_origin": "ast",
-      "id": "ref_node_modules",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "node_modules"
-    },
-    {
-      "label": "**/*.ts",
-      "file_type": "concept",
-      "source_file": "tsconfig.json",
-      "source_location": "L33",
-      "_origin": "ast",
-      "id": "ref_ts",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "**/*.ts"
-    },
-    {
-      "label": "**/*.tsx",
-      "file_type": "concept",
-      "source_file": "tsconfig.json",
-      "source_location": "L33",
-      "_origin": "ast",
-      "id": "ref_tsx",
-      "community": 1,
-      "community_name": "compilerOptions",
-      "norm_label": "**/*.tsx"
-    },
-    {
-      "label": "layout.tsx",
-      "file_type": "code",
-      "source_file": "src/app/layout.tsx",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "src_app_layout",
-      "community": 10,
-      "community_name": "layout.tsx",
-      "norm_label": "layout.tsx"
-    },
-    {
-      "label": "jetbrainsMono",
-      "file_type": "code",
-      "source_file": "src/app/layout.tsx",
-      "source_location": "L14",
-      "_origin": "ast",
-      "id": "src_app_layout_jetbrainsmono",
-      "community": 10,
-      "community_name": "layout.tsx",
-      "norm_label": "jetbrainsmono"
-    },
-    {
-      "label": "metadata",
-      "file_type": "code",
-      "source_file": "src/app/layout.tsx",
-      "source_location": "L27",
-      "_origin": "ast",
-      "id": "src_app_layout_metadata",
-      "community": 10,
-      "community_name": "layout.tsx",
-      "norm_label": "metadata"
-    },
-    {
-      "label": "plusJakarta",
-      "file_type": "code",
-      "source_file": "src/app/layout.tsx",
-      "source_location": "L7",
-      "_origin": "ast",
-      "id": "src_app_layout_plusjakarta",
-      "community": 10,
-      "community_name": "layout.tsx",
-      "norm_label": "plusjakarta"
-    },
-    {
-      "label": "viewport",
-      "file_type": "code",
-      "source_file": "src/app/layout.tsx",
-      "source_location": "L21",
-      "_origin": "ast",
-      "id": "src_app_layout_viewport",
-      "community": 10,
-      "community_name": "layout.tsx",
-      "norm_label": "viewport"
-    },
-    {
-      "label": "Footer.tsx",
-      "file_type": "code",
-      "source_file": "src/components/Footer.tsx",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "src_components_footer",
-      "community": 10,
-      "community_name": "layout.tsx",
-      "norm_label": "footer.tsx"
-    },
-    {
-      "label": "Navbar.tsx",
-      "file_type": "code",
-      "source_file": "src/components/Navbar.tsx",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "src_components_navbar",
-      "community": 10,
-      "community_name": "layout.tsx",
-      "norm_label": "navbar.tsx"
-    },
-    {
-      "label": "navItems",
-      "file_type": "code",
-      "source_file": "src/components/Navbar.tsx",
-      "source_location": "L5",
-      "_origin": "ast",
-      "id": "src_components_navbar_navitems",
-      "community": 10,
-      "community_name": "layout.tsx",
-      "norm_label": "navitems"
+      "community_name": "InteractiveTerminal",
+      "norm_label": "terminal.js"
     },
     {
       "label": "Acceptance checks",
@@ -1388,7 +992,7 @@
       "source_location": "L87",
       "_origin": "ast",
       "id": "design_acceptance_checks",
-      "community": 11,
+      "community": 10,
       "community_name": "DESIGN.md \u2014 Reyfuu / working index",
       "norm_label": "acceptance checks"
     },
@@ -1400,7 +1004,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "design_content_and_hierarchy",
-      "community": 11,
+      "community": 10,
       "community_name": "DESIGN.md \u2014 Reyfuu / working index",
       "norm_label": "content and hierarchy"
     },
@@ -1412,7 +1016,7 @@
       "source_location": "L81",
       "_origin": "ast",
       "id": "design_data_and_implementation",
-      "community": 11,
+      "community": 10,
       "community_name": "DESIGN.md \u2014 Reyfuu / working index",
       "norm_label": "data and implementation"
     },
@@ -1424,7 +1028,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "design_design_md_reyfuu_working_index",
-      "community": 11,
+      "community": 10,
       "community_name": "DESIGN.md \u2014 Reyfuu / working index",
       "norm_label": "design.md \u2014 reyfuu / working index"
     },
@@ -1436,7 +1040,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "design_direction",
-      "community": 11,
+      "community": 10,
       "community_name": "DESIGN.md \u2014 Reyfuu / working index",
       "norm_label": "direction"
     },
@@ -1448,7 +1052,7 @@
       "source_location": "L68",
       "_origin": "ast",
       "id": "design_interaction_and_accessibility",
-      "community": 11,
+      "community": 10,
       "community_name": "DESIGN.md \u2014 Reyfuu / working index",
       "norm_label": "interaction and accessibility"
     },
@@ -1460,7 +1064,7 @@
       "source_location": "L55",
       "_origin": "ast",
       "id": "design_reference_application",
-      "community": 11,
+      "community": 10,
       "community_name": "DESIGN.md \u2014 Reyfuu / working index",
       "norm_label": "reference application"
     },
@@ -1472,105 +1076,9 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "design_tokens",
-      "community": 11,
+      "community": 10,
       "community_name": "DESIGN.md \u2014 Reyfuu / working index",
       "norm_label": "tokens"
-    },
-    {
-      "label": "1. Kebutuhan fungsional",
-      "file_type": "document",
-      "node_kind": "heading",
-      "source_file": "FRD.md",
-      "source_location": "L6",
-      "_origin": "ast",
-      "id": "frd_1_kebutuhan_fungsional",
-      "community": 12,
-      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
-      "norm_label": "1. kebutuhan fungsional"
-    },
-    {
-      "label": "2. Model dan alur data",
-      "file_type": "document",
-      "node_kind": "heading",
-      "source_file": "FRD.md",
-      "source_location": "L25",
-      "_origin": "ast",
-      "id": "frd_2_model_dan_alur_data",
-      "community": 12,
-      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
-      "norm_label": "2. model dan alur data"
-    },
-    {
-      "label": "3. State dan interaksi",
-      "file_type": "document",
-      "node_kind": "heading",
-      "source_file": "FRD.md",
-      "source_location": "L38",
-      "_origin": "ast",
-      "id": "frd_3_state_dan_interaksi",
-      "community": 12,
-      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
-      "norm_label": "3. state dan interaksi"
-    },
-    {
-      "label": "4. Kebutuhan nonfungsional",
-      "file_type": "document",
-      "node_kind": "heading",
-      "source_file": "FRD.md",
-      "source_location": "L50",
-      "_origin": "ast",
-      "id": "frd_4_kebutuhan_nonfungsional",
-      "community": 12,
-      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
-      "norm_label": "4. kebutuhan nonfungsional"
-    },
-    {
-      "label": "5. Matriks uji",
-      "file_type": "document",
-      "node_kind": "heading",
-      "source_file": "FRD.md",
-      "source_location": "L63",
-      "_origin": "ast",
-      "id": "frd_5_matriks_uji",
-      "community": 12,
-      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
-      "norm_label": "5. matriks uji"
-    },
-    {
-      "label": "6. Batas integrasi",
-      "file_type": "document",
-      "node_kind": "heading",
-      "source_file": "FRD.md",
-      "source_location": "L76",
-      "_origin": "ast",
-      "id": "frd_6_batas_integrasi",
-      "community": 12,
-      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
-      "norm_label": "6. batas integrasi"
-    },
-    {
-      "label": "7. Menjalankan pemeriksaan",
-      "file_type": "document",
-      "node_kind": "heading",
-      "source_file": "FRD.md",
-      "source_location": "L83",
-      "_origin": "ast",
-      "id": "frd_7_menjalankan_pemeriksaan",
-      "community": 12,
-      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
-      "norm_label": "7. menjalankan pemeriksaan"
-    },
-    {
-      "label": "FRD \u2014 Reyfuu Professional Portfolio",
-      "file_type": "document",
-      "node_kind": "heading",
-      "source_file": "FRD.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "frd_frd_reyfuu_professional_portfolio",
-      "community": 12,
-      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
-      "norm_label": "frd \u2014 reyfuu professional portfolio"
     },
     {
       "label": "sync-github.mjs",
@@ -1579,7 +1087,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "scripts_sync_github",
-      "community": 13,
+      "community": 11,
       "community_name": "sync-github.mjs",
       "norm_label": "sync-github.mjs"
     },
@@ -1590,7 +1098,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "scripts_sync_github_fields",
-      "community": 13,
+      "community": 11,
       "community_name": "sync-github.mjs",
       "norm_label": "fields"
     },
@@ -1601,7 +1109,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "scripts_sync_github_file",
-      "community": 13,
+      "community": 11,
       "community_name": "sync-github.mjs",
       "norm_label": "file"
     },
@@ -1612,7 +1120,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "scripts_sync_github_profilefields",
-      "community": 13,
+      "community": 11,
       "community_name": "sync-github.mjs",
       "norm_label": "profilefields"
     },
@@ -1623,7 +1131,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "scripts_sync_github_repositories",
-      "community": 13,
+      "community": 11,
       "community_name": "sync-github.mjs",
       "norm_label": "repositories"
     },
@@ -1634,7 +1142,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "scripts_sync_github_snapshot",
-      "community": 13,
+      "community": 11,
       "community_name": "sync-github.mjs",
       "norm_label": "snapshot"
     },
@@ -1645,7 +1153,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "scripts_sync_github_temporary",
-      "community": 13,
+      "community": 11,
       "community_name": "sync-github.mjs",
       "norm_label": "temporary"
     },
@@ -1657,7 +1165,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "agents",
-      "community": 14,
+      "community": 12,
       "community_name": "AGENTS.md \u2014 Reyfuu portfolio",
       "norm_label": "agents.md"
     },
@@ -1669,7 +1177,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "agents_agents_md_reyfuu_portfolio",
-      "community": 14,
+      "community": 12,
       "community_name": "AGENTS.md \u2014 Reyfuu portfolio",
       "norm_label": "agents.md \u2014 reyfuu portfolio"
     },
@@ -1681,7 +1189,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "agents_completion_routine_every_task",
-      "community": 14,
+      "community": 12,
       "community_name": "AGENTS.md \u2014 Reyfuu portfolio",
       "norm_label": "completion routine \u2014 every task"
     },
@@ -1693,7 +1201,7 @@
       "source_location": "L32",
       "_origin": "ast",
       "id": "agents_design_and_engineering_rules",
-      "community": 14,
+      "community": 12,
       "community_name": "AGENTS.md \u2014 Reyfuu portfolio",
       "norm_label": "design and engineering rules"
     },
@@ -1705,7 +1213,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "agents_project_map",
-      "community": 14,
+      "community": 12,
       "community_name": "AGENTS.md \u2014 Reyfuu portfolio",
       "norm_label": "project map"
     },
@@ -1717,7 +1225,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "agents_required_workflow",
-      "community": 14,
+      "community": 12,
       "community_name": "AGENTS.md \u2014 Reyfuu portfolio",
       "norm_label": "required workflow"
     },
@@ -1729,7 +1237,7 @@
       "source_location": "L47",
       "_origin": "ast",
       "id": "agents_this_is_not_the_next_js_you_know",
-      "community": 14,
+      "community": 12,
       "community_name": "AGENTS.md \u2014 Reyfuu portfolio",
       "norm_label": "this is not the next.js you know"
     },
@@ -1741,7 +1249,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "gemini",
-      "community": 15,
+      "community": 13,
       "community_name": "GEMINI.md \u2014 Project Memory & Context Rules",
       "norm_label": "gemini.md"
     },
@@ -1753,7 +1261,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "gemini_1_project_context",
-      "community": 15,
+      "community": 13,
       "community_name": "GEMINI.md \u2014 Project Memory & Context Rules",
       "norm_label": "1. project context"
     },
@@ -1765,7 +1273,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "gemini_2_architectural_guidelines",
-      "community": 15,
+      "community": 13,
       "community_name": "GEMINI.md \u2014 Project Memory & Context Rules",
       "norm_label": "2. architectural guidelines"
     },
@@ -1777,7 +1285,7 @@
       "source_location": "L24",
       "_origin": "ast",
       "id": "gemini_3_persistent_guidelines_for_agents",
-      "community": 15,
+      "community": 13,
       "community_name": "GEMINI.md \u2014 Project Memory & Context Rules",
       "norm_label": "3. persistent guidelines for agents"
     },
@@ -1789,57 +1297,9 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "gemini_gemini_md_project_memory_context_rules",
-      "community": 15,
+      "community": 13,
       "community_name": "GEMINI.md \u2014 Project Memory & Context Rules",
       "norm_label": "gemini.md \u2014 project memory & context rules"
-    },
-    {
-      "label": "README.md",
-      "file_type": "document",
-      "node_kind": "page",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "readme",
-      "community": 16,
-      "community_name": "Reyfuu portfolio",
-      "norm_label": "readme.md"
-    },
-    {
-      "label": "Checks",
-      "file_type": "document",
-      "node_kind": "heading",
-      "source_file": "README.md",
-      "source_location": "L14",
-      "_origin": "ast",
-      "id": "readme_checks",
-      "community": 16,
-      "community_name": "Reyfuu portfolio",
-      "norm_label": "checks"
-    },
-    {
-      "label": "Development",
-      "file_type": "document",
-      "node_kind": "heading",
-      "source_file": "README.md",
-      "source_location": "L5",
-      "_origin": "ast",
-      "id": "readme_development",
-      "community": 16,
-      "community_name": "Reyfuu portfolio",
-      "norm_label": "development"
-    },
-    {
-      "label": "Reyfuu portfolio",
-      "file_type": "document",
-      "node_kind": "heading",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "readme_reyfuu_portfolio",
-      "community": 16,
-      "community_name": "Reyfuu portfolio",
-      "norm_label": "reyfuu portfolio"
     },
     {
       "label": "Philosophy.tsx",
@@ -1848,7 +1308,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_components_philosophy",
-      "community": 17,
+      "community": 14,
       "community_name": "Philosophy.tsx",
       "norm_label": "philosophy.tsx"
     },
@@ -1859,64 +1319,578 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "src_components_philosophy_principles",
-      "community": 17,
+      "community": 14,
       "community_name": "Philosophy.tsx",
       "norm_label": "principles"
     },
     {
-      "label": "browser-smoke.cjs",
+      "label": "github.js",
       "file_type": "code",
-      "source_file": "tests/browser-smoke.cjs",
+      "source_file": "js/github.js",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "tests_browser_smoke",
-      "community": 18,
-      "community_name": "browser-smoke.cjs",
-      "norm_label": "browser-smoke.cjs"
+      "id": "js_github",
+      "community": 15,
+      "community_name": "github.js",
+      "norm_label": "github.js"
     },
     {
-      "label": "assert",
+      "label": "GitHubService",
       "file_type": "code",
-      "source_file": "tests/browser-smoke.cjs",
+      "source_file": "js/github.js",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "js_github_githubservice",
+      "community": 15,
+      "community_name": "github.js",
+      "norm_label": "githubservice"
+    },
+    {
+      "label": "projects-data.js",
+      "file_type": "code",
+      "source_file": "js/projects-data.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "js_projects_data",
+      "community": 16,
+      "community_name": "projects-data.js",
+      "norm_label": "projects-data.js"
+    },
+    {
+      "label": "REPO_DATA",
+      "file_type": "code",
+      "source_file": "js/projects-data.js",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "js_projects_data_repo_data",
+      "community": 16,
+      "community_name": "projects-data.js",
+      "norm_label": "repo_data"
+    },
+    {
+      "label": "next.config.mjs",
+      "file_type": "code",
+      "source_file": "next.config.mjs",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "next_config",
+      "community": 17,
+      "community_name": "next.config.mjs",
+      "norm_label": "next.config.mjs"
+    },
+    {
+      "label": "nextConfig",
+      "file_type": "code",
+      "source_file": "next.config.mjs",
       "source_location": "L2",
       "_origin": "ast",
-      "id": "tests_browser_smoke_assert",
+      "id": "next_config_nextconfig",
+      "community": 17,
+      "community_name": "next.config.mjs",
+      "norm_label": "nextconfig"
+    },
+    {
+      "label": "1. Kebutuhan fungsional",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "FRD.md",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "frd_1_kebutuhan_fungsional",
       "community": 18,
-      "community_name": "browser-smoke.cjs",
-      "norm_label": "assert"
+      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
+      "norm_label": "1. kebutuhan fungsional"
     },
     {
-      "label": "{ chromium }",
-      "file_type": "code",
-      "source_file": "tests/browser-smoke.cjs",
-      "source_location": "L1",
+      "label": "2. Model dan alur data",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "FRD.md",
+      "source_location": "L25",
       "_origin": "ast",
-      "id": "tests_browser_smoke_chromium",
+      "id": "frd_2_model_dan_alur_data",
       "community": 18,
-      "community_name": "browser-smoke.cjs",
-      "norm_label": "{ chromium }"
+      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
+      "norm_label": "2. model dan alur data"
     },
     {
-      "label": "App.jsx",
-      "file_type": "code",
-      "source_file": "vite-check/src/App.jsx",
-      "source_location": "L1",
+      "label": "3. State dan interaksi",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "FRD.md",
+      "source_location": "L38",
       "_origin": "ast",
-      "id": "vite_check_src_app",
-      "community": 19,
-      "community_name": "App.jsx",
-      "norm_label": "app.jsx"
+      "id": "frd_3_state_dan_interaksi",
+      "community": 18,
+      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
+      "norm_label": "3. state dan interaksi"
     },
     {
-      "label": "main.jsx",
-      "file_type": "code",
-      "source_file": "vite-check/src/main.jsx",
+      "label": "4. Kebutuhan nonfungsional",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "FRD.md",
+      "source_location": "L50",
+      "_origin": "ast",
+      "id": "frd_4_kebutuhan_nonfungsional",
+      "community": 18,
+      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
+      "norm_label": "4. kebutuhan nonfungsional"
+    },
+    {
+      "label": "5. Matriks uji",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "FRD.md",
+      "source_location": "L63",
+      "_origin": "ast",
+      "id": "frd_5_matriks_uji",
+      "community": 18,
+      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
+      "norm_label": "5. matriks uji"
+    },
+    {
+      "label": "6. Batas integrasi",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "FRD.md",
+      "source_location": "L76",
+      "_origin": "ast",
+      "id": "frd_6_batas_integrasi",
+      "community": 18,
+      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
+      "norm_label": "6. batas integrasi"
+    },
+    {
+      "label": "7. Menjalankan pemeriksaan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "FRD.md",
+      "source_location": "L83",
+      "_origin": "ast",
+      "id": "frd_7_menjalankan_pemeriksaan",
+      "community": 18,
+      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
+      "norm_label": "7. menjalankan pemeriksaan"
+    },
+    {
+      "label": "FRD \u2014 Reyfuu Professional Portfolio",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "FRD.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "vite_check_src_main",
+      "id": "frd_frd_reyfuu_professional_portfolio",
+      "community": 18,
+      "community_name": "FRD \u2014 Reyfuu Professional Portfolio",
+      "norm_label": "frd \u2014 reyfuu professional portfolio"
+    },
+    {
+      "label": "error.tsx",
+      "file_type": "code",
+      "source_file": "src/app/error.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "src_app_error",
       "community": 19,
-      "community_name": "App.jsx",
-      "norm_label": "main.jsx"
+      "community_name": "error.tsx",
+      "norm_label": "error.tsx"
+    },
+    {
+      "label": "tsconfig.json",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tsconfig",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "tsconfig.json"
+    },
+    {
+      "label": "compilerOptions",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "compileroptions"
+    },
+    {
+      "label": "allowJs",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_allowjs",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "allowjs"
+    },
+    {
+      "label": "baseUrl",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_baseurl",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "baseurl"
+    },
+    {
+      "label": "esModuleInterop",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_esmoduleinterop",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "esmoduleinterop"
+    },
+    {
+      "label": "incremental",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_incremental",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "incremental"
+    },
+    {
+      "label": "isolatedModules",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_isolatedmodules",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "isolatedmodules"
+    },
+    {
+      "label": "jsx",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_jsx",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "jsx"
+    },
+    {
+      "label": "lib",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_lib",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "lib"
+    },
+    {
+      "label": "module",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_module",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "module"
+    },
+    {
+      "label": "moduleResolution",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_moduleresolution",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "moduleresolution"
+    },
+    {
+      "label": "noEmit",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_noemit",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "noemit"
+    },
+    {
+      "label": "paths",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_paths",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "paths"
+    },
+    {
+      "label": "plugins",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_plugins",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "plugins"
+    },
+    {
+      "label": "resolveJsonModule",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_resolvejsonmodule",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "resolvejsonmodule"
+    },
+    {
+      "label": "skipLibCheck",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_skiplibcheck",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "skiplibcheck"
+    },
+    {
+      "label": "strict",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_strict",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "strict"
+    },
+    {
+      "label": "target",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "tsconfig_compileroptions_target",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "target"
+    },
+    {
+      "label": "exclude",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L40",
+      "_origin": "ast",
+      "id": "tsconfig_exclude",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "exclude"
+    },
+    {
+      "label": "include",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L33",
+      "_origin": "ast",
+      "id": "tsconfig_include",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "include"
+    },
+    {
+      "label": "dom",
+      "file_type": "concept",
+      "source_file": "tsconfig.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "ref_dom",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "dom"
+    },
+    {
+      "label": "dom.iterable",
+      "file_type": "concept",
+      "source_file": "tsconfig.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "ref_dom_iterable",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "dom.iterable"
+    },
+    {
+      "label": "esnext",
+      "file_type": "concept",
+      "source_file": "tsconfig.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "ref_esnext",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "esnext"
+    },
+    {
+      "label": ".next/dev/types/**/*.ts",
+      "file_type": "concept",
+      "source_file": "tsconfig.json",
+      "source_location": "L33",
+      "_origin": "ast",
+      "id": "ref_next_dev_types_ts",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": ".next/dev/types/**/*.ts"
+    },
+    {
+      "label": "next-env.d.ts",
+      "file_type": "concept",
+      "source_file": "tsconfig.json",
+      "source_location": "L33",
+      "_origin": "ast",
+      "id": "ref_next_env_d_ts",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "next-env.d.ts"
+    },
+    {
+      "label": ".next/types/**/*.ts",
+      "file_type": "concept",
+      "source_file": "tsconfig.json",
+      "source_location": "L33",
+      "_origin": "ast",
+      "id": "ref_next_types_ts",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": ".next/types/**/*.ts"
+    },
+    {
+      "label": "node_modules",
+      "file_type": "concept",
+      "source_file": "tsconfig.json",
+      "source_location": "L40",
+      "_origin": "ast",
+      "id": "ref_node_modules",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "node_modules"
+    },
+    {
+      "label": "**/*.ts",
+      "file_type": "concept",
+      "source_file": "tsconfig.json",
+      "source_location": "L33",
+      "_origin": "ast",
+      "id": "ref_ts",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "**/*.ts"
+    },
+    {
+      "label": "**/*.tsx",
+      "file_type": "concept",
+      "source_file": "tsconfig.json",
+      "source_location": "L33",
+      "_origin": "ast",
+      "id": "ref_tsx",
+      "community": 2,
+      "community_name": "compilerOptions",
+      "norm_label": "**/*.tsx"
+    },
+    {
+      "label": "not-found.tsx",
+      "file_type": "code",
+      "source_file": "src/app/not-found.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "src_app_not_found",
+      "community": 20,
+      "community_name": "not-found.tsx",
+      "norm_label": "not-found.tsx"
+    },
+    {
+      "label": "AmbientCanvas.tsx",
+      "file_type": "code",
+      "source_file": "src/components/AmbientCanvas.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "src_components_ambientcanvas",
+      "community": 21,
+      "community_name": "AmbientCanvas.tsx",
+      "norm_label": "ambientcanvas.tsx"
+    },
+    {
+      "label": "eslint.config.mjs",
+      "file_type": "code",
+      "source_file": "eslint.config.mjs",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "eslint_config",
+      "community": 22,
+      "community_name": "eslint.config.mjs",
+      "norm_label": "eslint.config.mjs"
+    },
+    {
+      "label": "next",
+      "file_type": "code",
+      "source_file": "next",
+      "confidence": "EXTRACTED",
+      "_origin": "ast",
+      "id": "next_next",
+      "community": 23,
+      "community_name": "next",
+      "norm_label": "next"
+    },
+    {
+      "label": "postcss.config.js",
+      "file_type": "code",
+      "source_file": "postcss.config.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "postcss_config",
+      "community": 24,
+      "community_name": "postcss.config.js",
+      "norm_label": "postcss.config.js"
+    },
+    {
+      "label": "tailwind.config.js",
+      "file_type": "code",
+      "source_file": "tailwind.config.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tailwind_config",
+      "community": 25,
+      "community_name": "tailwind.config.js",
+      "norm_label": "tailwind.config.js"
+    },
+    {
+      "label": "tailwindcss",
+      "file_type": "code",
+      "source_file": "tailwindcss",
+      "confidence": "EXTRACTED",
+      "_origin": "ast",
+      "id": "tailwindcss_tailwindcss",
+      "community": 26,
+      "community_name": "tailwindcss",
+      "norm_label": "tailwindcss"
     },
     {
       "label": "BRD.md",
@@ -1926,7 +1900,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "brd",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "brd.md"
     },
@@ -1938,7 +1912,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "brd_1_kebutuhan_bisnis",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "1. kebutuhan bisnis"
     },
@@ -1950,7 +1924,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "brd_2_tujuan_dan_ukuran_keberhasilan",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "2. tujuan dan ukuran keberhasilan"
     },
@@ -1962,7 +1936,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "brd_3_pemangku_kepentingan_dan_pengguna",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "3. pemangku kepentingan dan pengguna"
     },
@@ -1974,7 +1948,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "brd_4_ruang_lingkup",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "4. ruang lingkup"
     },
@@ -1986,7 +1960,7 @@
       "source_location": "L51",
       "_origin": "ast",
       "id": "brd_5_aturan_bisnis",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "5. aturan bisnis"
     },
@@ -1998,7 +1972,7 @@
       "source_location": "L62",
       "_origin": "ast",
       "id": "brd_6_risiko_dan_mitigasi",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "6. risiko dan mitigasi"
     },
@@ -2010,7 +1984,7 @@
       "source_location": "L72",
       "_origin": "ast",
       "id": "brd_7_dependensi_dan_penerimaan",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "7. dependensi dan penerimaan"
     },
@@ -2022,7 +1996,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "brd_brd_reyfuu_professional_portfolio",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "brd \u2014 reyfuu professional portfolio"
     },
@@ -2034,7 +2008,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "design",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "design.md"
     },
@@ -2046,7 +2020,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "frd",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "frd.md"
     },
@@ -2058,7 +2032,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "prd",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "prd.md"
     },
@@ -2070,7 +2044,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "prd_1_masalah_produk",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "1. masalah produk"
     },
@@ -2082,7 +2056,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "prd_2_keputusan_produk",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "2. keputusan produk"
     },
@@ -2094,7 +2068,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "prd_3_pengguna_dan_perjalanan_utama",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "3. pengguna dan perjalanan utama"
     },
@@ -2106,7 +2080,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "prd_4_prioritas_rilis",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "4. prioritas rilis"
     },
@@ -2118,7 +2092,7 @@
       "source_location": "L47",
       "_origin": "ast",
       "id": "prd_5_kontrak_konten",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "5. kontrak konten"
     },
@@ -2130,7 +2104,7 @@
       "source_location": "L55",
       "_origin": "ast",
       "id": "prd_6_desain_dan_referensi",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "6. desain dan referensi"
     },
@@ -2142,7 +2116,7 @@
       "source_location": "L65",
       "_origin": "ast",
       "id": "prd_7_ukuran_kualitas_dan_rilis",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "7. ukuran kualitas dan rilis"
     },
@@ -2154,7 +2128,7 @@
       "source_location": "L76",
       "_origin": "ast",
       "id": "prd_8_urutan_pelaksanaan",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "8. urutan pelaksanaan"
     },
@@ -2166,108 +2140,277 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "prd_prd_reyfuu_professional_portfolio",
-      "community": 2,
+      "community": 27,
       "community_name": "PRD \u2014 Reyfuu Professional Portfolio",
       "norm_label": "prd \u2014 reyfuu professional portfolio"
     },
     {
-      "label": "github.js",
-      "file_type": "code",
-      "source_file": "js/github.js",
+      "label": "README.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "source_file": "README.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "js_github",
-      "community": 20,
-      "community_name": "github.js",
-      "norm_label": "github.js"
+      "id": "readme",
+      "community": 28,
+      "community_name": "Reyfuu portfolio",
+      "norm_label": "readme.md"
     },
     {
-      "label": "GitHubService",
-      "file_type": "code",
-      "source_file": "js/github.js",
+      "label": "Checks",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "readme_checks",
+      "community": 28,
+      "community_name": "Reyfuu portfolio",
+      "norm_label": "checks"
+    },
+    {
+      "label": "Development",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
       "source_location": "L5",
       "_origin": "ast",
-      "id": "js_github_githubservice",
-      "community": 20,
-      "community_name": "github.js",
-      "norm_label": "githubservice"
+      "id": "readme_development",
+      "community": 28,
+      "community_name": "Reyfuu portfolio",
+      "norm_label": "development"
     },
     {
-      "label": "projects-data.js",
-      "file_type": "code",
-      "source_file": "js/projects-data.js",
+      "label": "Reyfuu portfolio",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "js_projects_data",
-      "community": 21,
-      "community_name": "projects-data.js",
-      "norm_label": "projects-data.js"
+      "id": "readme_reyfuu_portfolio",
+      "community": 28,
+      "community_name": "Reyfuu portfolio",
+      "norm_label": "reyfuu portfolio"
     },
     {
-      "label": "REPO_DATA",
+      "label": "browser-smoke.cjs",
       "file_type": "code",
-      "source_file": "js/projects-data.js",
-      "source_location": "L6",
-      "_origin": "ast",
-      "id": "js_projects_data_repo_data",
-      "community": 21,
-      "community_name": "projects-data.js",
-      "norm_label": "repo_data"
-    },
-    {
-      "label": "next.config.mjs",
-      "file_type": "code",
-      "source_file": "next.config.mjs",
+      "source_file": "tests/browser-smoke.cjs",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "next_config",
-      "community": 22,
-      "community_name": "next.config.mjs",
-      "norm_label": "next.config.mjs"
+      "id": "tests_browser_smoke",
+      "community": 29,
+      "community_name": "browser-smoke.cjs",
+      "norm_label": "browser-smoke.cjs"
     },
     {
-      "label": "nextConfig",
+      "label": "assert",
       "file_type": "code",
-      "source_file": "next.config.mjs",
+      "source_file": "tests/browser-smoke.cjs",
       "source_location": "L2",
       "_origin": "ast",
-      "id": "next_config_nextconfig",
-      "community": 22,
-      "community_name": "next.config.mjs",
-      "norm_label": "nextconfig"
+      "id": "tests_browser_smoke_assert",
+      "community": 29,
+      "community_name": "browser-smoke.cjs",
+      "norm_label": "assert"
     },
     {
-      "label": "error.tsx",
+      "label": "{ chromium }",
       "file_type": "code",
-      "source_file": "src/app/error.tsx",
+      "source_file": "tests/browser-smoke.cjs",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "src_app_error",
-      "community": 23,
-      "community_name": "error.tsx",
-      "norm_label": "error.tsx"
+      "id": "tests_browser_smoke_chromium",
+      "community": 29,
+      "community_name": "browser-smoke.cjs",
+      "norm_label": "{ chromium }"
     },
     {
-      "label": "not-found.tsx",
+      "label": "dependencies",
       "file_type": "code",
-      "source_file": "src/app/not-found.tsx",
-      "source_location": "L1",
+      "source_file": "package.json",
+      "source_location": "L14",
       "_origin": "ast",
-      "id": "src_app_not_found",
-      "community": 24,
-      "community_name": "not-found.tsx",
-      "norm_label": "not-found.tsx"
+      "id": "package_dependencies",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "dependencies"
     },
     {
-      "label": "AmbientCanvas.tsx",
+      "label": "autoprefixer",
       "file_type": "code",
-      "source_file": "src/components/AmbientCanvas.tsx",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "package_dependencies_autoprefixer",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "autoprefixer"
+    },
+    {
+      "label": "next",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "package_dependencies_next",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "next"
+    },
+    {
+      "label": "postcss",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "package_dependencies_postcss",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "postcss"
+    },
+    {
+      "label": "react",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "package_dependencies_react",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "react"
+    },
+    {
+      "label": "react-dom",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "package_dependencies_react_dom",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "react-dom"
+    },
+    {
+      "label": "tailwindcss",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "package_dependencies_tailwindcss",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "tailwindcss"
+    },
+    {
+      "label": "@tailwindcss/postcss",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "package_dependencies_tailwindcss_postcss",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "@tailwindcss/postcss"
+    },
+    {
+      "label": "autoprefixer",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "autoprefixer",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "autoprefixer"
+    },
+    {
+      "label": "next",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "package_json_next",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "next"
+    },
+    {
+      "label": "react",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "package_json_react",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "react"
+    },
+    {
+      "label": "react-dom",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "package_json_react_dom",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "react-dom"
+    },
+    {
+      "label": "tailwindcss",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "package_json_tailwindcss",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "tailwindcss"
+    },
+    {
+      "label": "postcss",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "postcss",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "postcss"
+    },
+    {
+      "label": "@tailwindcss/postcss",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "tailwindcss_postcss",
+      "community": 3,
+      "community_name": "dependencies",
+      "norm_label": "@tailwindcss/postcss"
+    },
+    {
+      "label": "App.jsx",
+      "file_type": "code",
+      "source_file": "vite-check/src/App.jsx",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "src_components_ambientcanvas",
-      "community": 25,
-      "community_name": "AmbientCanvas.tsx",
-      "norm_label": "ambientcanvas.tsx"
+      "id": "vite_check_src_app",
+      "community": 30,
+      "community_name": "App.jsx",
+      "norm_label": "app.jsx"
+    },
+    {
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "vite-check/src/main.jsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "vite_check_src_main",
+      "community": 30,
+      "community_name": "App.jsx",
+      "norm_label": "main.jsx"
     },
     {
       "label": "CLAUDE.md",
@@ -2277,75 +2420,9 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "claude",
-      "community": 26,
+      "community": 31,
       "community_name": "CLAUDE.md",
       "norm_label": "claude.md"
-    },
-    {
-      "label": "eslint.config.mjs",
-      "file_type": "code",
-      "source_file": "eslint.config.mjs",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "eslint_config",
-      "community": 27,
-      "community_name": "eslint.config.mjs",
-      "norm_label": "eslint.config.mjs"
-    },
-    {
-      "label": "next",
-      "file_type": "code",
-      "source_file": "next",
-      "confidence": "EXTRACTED",
-      "_origin": "ast",
-      "id": "next_next",
-      "community": 28,
-      "community_name": "next",
-      "norm_label": "next"
-    },
-    {
-      "label": "postcss.config.js",
-      "file_type": "code",
-      "source_file": "postcss.config.js",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "postcss_config",
-      "community": 29,
-      "community_name": "postcss.config.js",
-      "norm_label": "postcss.config.js"
-    },
-    {
-      "label": "terminal.js",
-      "file_type": "code",
-      "source_file": "js/terminal.js",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "js_terminal",
-      "community": 3,
-      "community_name": "InteractiveTerminal",
-      "norm_label": "terminal.js"
-    },
-    {
-      "label": "tailwind.config.js",
-      "file_type": "code",
-      "source_file": "tailwind.config.js",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "tailwind_config",
-      "community": 30,
-      "community_name": "tailwind.config.js",
-      "norm_label": "tailwind.config.js"
-    },
-    {
-      "label": "tailwindcss",
-      "file_type": "code",
-      "source_file": "tailwindcss",
-      "confidence": "EXTRACTED",
-      "_origin": "ast",
-      "id": "tailwindcss_tailwindcss",
-      "community": 31,
-      "community_name": "tailwindcss",
-      "norm_label": "tailwindcss"
     },
     {
       "label": "vite.config.js",
@@ -2359,666 +2436,6 @@
       "norm_label": "vite.config.js"
     },
     {
-      "label": "vite-check/package.json",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "vite_check_package",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "vite-check/package.json"
-    },
-    {
-      "label": "dependencies",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L10",
-      "_origin": "ast",
-      "id": "vite_check_package_dependencies",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "dependencies"
-    },
-    {
-      "label": "react",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L11",
-      "_origin": "ast",
-      "id": "vite_check_package_dependencies_react",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "react"
-    },
-    {
-      "label": "react-dom",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L12",
-      "_origin": "ast",
-      "id": "vite_check_package_dependencies_react_dom",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "react-dom"
-    },
-    {
-      "label": "devDependencies",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L14",
-      "_origin": "ast",
-      "id": "vite_check_package_devdependencies",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "devdependencies"
-    },
-    {
-      "label": "vite",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L16",
-      "_origin": "ast",
-      "id": "vite_check_package_devdependencies_vite",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "vite"
-    },
-    {
-      "label": "@vitejs/plugin-react",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L15",
-      "_origin": "ast",
-      "id": "vite_check_package_devdependencies_vitejs_plugin_react",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "@vitejs/plugin-react"
-    },
-    {
-      "label": "name",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L2",
-      "_origin": "ast",
-      "id": "vite_check_package_name",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "name"
-    },
-    {
-      "label": "private",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L3",
-      "_origin": "ast",
-      "id": "vite_check_package_private",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "private"
-    },
-    {
-      "label": "scripts",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L5",
-      "_origin": "ast",
-      "id": "vite_check_package_scripts",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "scripts"
-    },
-    {
-      "label": "build",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L7",
-      "_origin": "ast",
-      "id": "vite_check_package_scripts_build",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "build"
-    },
-    {
-      "label": "dev",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L6",
-      "_origin": "ast",
-      "id": "vite_check_package_scripts_dev",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "dev"
-    },
-    {
-      "label": "preview",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L8",
-      "_origin": "ast",
-      "id": "vite_check_package_scripts_preview",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "preview"
-    },
-    {
-      "label": "type",
-      "file_type": "code",
-      "source_file": "vite-check/package.json",
-      "source_location": "L4",
-      "_origin": "ast",
-      "id": "vite_check_package_type",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "type"
-    },
-    {
-      "label": "vite",
-      "file_type": "concept",
-      "source_file": "vite-check/package.json",
-      "source_location": "L16",
-      "_origin": "ast",
-      "id": "vite",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "vite"
-    },
-    {
-      "label": "react",
-      "file_type": "concept",
-      "source_file": "vite-check/package.json",
-      "source_location": "L11",
-      "_origin": "ast",
-      "id": "vite_check_package_json_react",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "react"
-    },
-    {
-      "label": "react-dom",
-      "file_type": "concept",
-      "source_file": "vite-check/package.json",
-      "source_location": "L12",
-      "_origin": "ast",
-      "id": "vite_check_package_json_react_dom",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "react-dom"
-    },
-    {
-      "label": "@vitejs/plugin-react",
-      "file_type": "concept",
-      "source_file": "vite-check/package.json",
-      "source_location": "L15",
-      "_origin": "ast",
-      "id": "vitejs_plugin_react",
-      "community": 4,
-      "community_name": "vite-check/package.json",
-      "norm_label": "@vitejs/plugin-react"
-    },
-    {
-      "label": "dependencies",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L14",
-      "_origin": "ast",
-      "id": "package_dependencies",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "dependencies"
-    },
-    {
-      "label": "autoprefixer",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L16",
-      "_origin": "ast",
-      "id": "package_dependencies_autoprefixer",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "autoprefixer"
-    },
-    {
-      "label": "next",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L17",
-      "_origin": "ast",
-      "id": "package_dependencies_next",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "next"
-    },
-    {
-      "label": "postcss",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L18",
-      "_origin": "ast",
-      "id": "package_dependencies_postcss",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "postcss"
-    },
-    {
-      "label": "react",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L19",
-      "_origin": "ast",
-      "id": "package_dependencies_react",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "react"
-    },
-    {
-      "label": "react-dom",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L20",
-      "_origin": "ast",
-      "id": "package_dependencies_react_dom",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "react-dom"
-    },
-    {
-      "label": "tailwindcss",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L21",
-      "_origin": "ast",
-      "id": "package_dependencies_tailwindcss",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "tailwindcss"
-    },
-    {
-      "label": "@tailwindcss/postcss",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L15",
-      "_origin": "ast",
-      "id": "package_dependencies_tailwindcss_postcss",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "@tailwindcss/postcss"
-    },
-    {
-      "label": "autoprefixer",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L16",
-      "_origin": "ast",
-      "id": "autoprefixer",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "autoprefixer"
-    },
-    {
-      "label": "next",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L17",
-      "_origin": "ast",
-      "id": "package_json_next",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "next"
-    },
-    {
-      "label": "react",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L19",
-      "_origin": "ast",
-      "id": "package_json_react",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "react"
-    },
-    {
-      "label": "react-dom",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L20",
-      "_origin": "ast",
-      "id": "package_json_react_dom",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "react-dom"
-    },
-    {
-      "label": "tailwindcss",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L21",
-      "_origin": "ast",
-      "id": "package_json_tailwindcss",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "tailwindcss"
-    },
-    {
-      "label": "postcss",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L18",
-      "_origin": "ast",
-      "id": "postcss",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "postcss"
-    },
-    {
-      "label": "@tailwindcss/postcss",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L15",
-      "_origin": "ast",
-      "id": "tailwindcss_postcss",
-      "community": 5,
-      "community_name": "dependencies",
-      "norm_label": "@tailwindcss/postcss"
-    },
-    {
-      "label": "package.json",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "package",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "package.json"
-    },
-    {
-      "label": "engines",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L31",
-      "_origin": "ast",
-      "id": "package_engines",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "engines"
-    },
-    {
-      "label": "node",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L32",
-      "_origin": "ast",
-      "id": "package_engines_node",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "node"
-    },
-    {
-      "label": "name",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L2",
-      "_origin": "ast",
-      "id": "package_name",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "name"
-    },
-    {
-      "label": "private",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L4",
-      "_origin": "ast",
-      "id": "package_private",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "private"
-    },
-    {
-      "label": "scripts",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L5",
-      "_origin": "ast",
-      "id": "package_scripts",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "scripts"
-    },
-    {
-      "label": "build",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L7",
-      "_origin": "ast",
-      "id": "package_scripts_build",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "build"
-    },
-    {
-      "label": "dev",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L6",
-      "_origin": "ast",
-      "id": "package_scripts_dev",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "dev"
-    },
-    {
-      "label": "lint",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L9",
-      "_origin": "ast",
-      "id": "package_scripts_lint",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "lint"
-    },
-    {
-      "label": "start",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L8",
-      "_origin": "ast",
-      "id": "package_scripts_start",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "start"
-    },
-    {
-      "label": "sync:github",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L11",
-      "_origin": "ast",
-      "id": "package_scripts_sync_github",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "sync:github"
-    },
-    {
-      "label": "test",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L12",
-      "_origin": "ast",
-      "id": "package_scripts_test",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "test"
-    },
-    {
-      "label": "typecheck",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L10",
-      "_origin": "ast",
-      "id": "package_scripts_typecheck",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "typecheck"
-    },
-    {
-      "label": "version",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L3",
-      "_origin": "ast",
-      "id": "package_version",
-      "community": 6,
-      "community_name": "scripts",
-      "norm_label": "version"
-    },
-    {
-      "label": "devDependencies",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L23",
-      "_origin": "ast",
-      "id": "package_devdependencies",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "devdependencies"
-    },
-    {
-      "label": "eslint",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L27",
-      "_origin": "ast",
-      "id": "package_devdependencies_eslint",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "eslint"
-    },
-    {
-      "label": "eslint-config-next",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L28",
-      "_origin": "ast",
-      "id": "package_devdependencies_eslint_config_next",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "eslint-config-next"
-    },
-    {
-      "label": "@types/node",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L24",
-      "_origin": "ast",
-      "id": "package_devdependencies_types_node",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "@types/node"
-    },
-    {
-      "label": "@types/react",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L25",
-      "_origin": "ast",
-      "id": "package_devdependencies_types_react",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "@types/react"
-    },
-    {
-      "label": "@types/react-dom",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L26",
-      "_origin": "ast",
-      "id": "package_devdependencies_types_react_dom",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "@types/react-dom"
-    },
-    {
-      "label": "typescript",
-      "file_type": "code",
-      "source_file": "package.json",
-      "source_location": "L29",
-      "_origin": "ast",
-      "id": "package_devdependencies_typescript",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "typescript"
-    },
-    {
-      "label": "eslint",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L27",
-      "_origin": "ast",
-      "id": "eslint",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "eslint"
-    },
-    {
-      "label": "eslint-config-next",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L28",
-      "_origin": "ast",
-      "id": "eslint_config_next",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "eslint-config-next"
-    },
-    {
-      "label": "@types/node",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L24",
-      "_origin": "ast",
-      "id": "types_node",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "@types/node"
-    },
-    {
-      "label": "@types/react",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L25",
-      "_origin": "ast",
-      "id": "types_react",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "@types/react"
-    },
-    {
-      "label": "@types/react-dom",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L26",
-      "_origin": "ast",
-      "id": "types_react_dom",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "@types/react-dom"
-    },
-    {
-      "label": "typescript",
-      "file_type": "concept",
-      "source_file": "package.json",
-      "source_location": "L29",
-      "_origin": "ast",
-      "id": "typescript",
-      "community": 7,
-      "community_name": "devDependencies",
-      "norm_label": "typescript"
-    },
-    {
       "label": "PRODUCT.md",
       "file_type": "document",
       "node_kind": "page",
@@ -3026,7 +2443,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "product",
-      "community": 8,
+      "community": 4,
       "community_name": "Reyfuu \u2014 product context",
       "norm_label": "product.md"
     },
@@ -3038,7 +2455,7 @@
       "source_location": "L47",
       "_origin": "ast",
       "id": "product_accessibility_inclusion",
-      "community": 8,
+      "community": 4,
       "community_name": "Reyfuu \u2014 product context",
       "norm_label": "accessibility & inclusion"
     },
@@ -3050,7 +2467,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "product_brand_commitments",
-      "community": 8,
+      "community": 4,
       "community_name": "Reyfuu \u2014 product context",
       "norm_label": "brand commitments"
     },
@@ -3062,7 +2479,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "product_capabilities_and_constraints",
-      "community": 8,
+      "community": 4,
       "community_name": "Reyfuu \u2014 product context",
       "norm_label": "capabilities and constraints"
     },
@@ -3074,7 +2491,7 @@
       "source_location": "L36",
       "_origin": "ast",
       "id": "product_evidence_on_hand",
-      "community": 8,
+      "community": 4,
       "community_name": "Reyfuu \u2014 product context",
       "norm_label": "evidence on hand"
     },
@@ -3086,7 +2503,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "product_operating_context",
-      "community": 8,
+      "community": 4,
       "community_name": "Reyfuu \u2014 product context",
       "norm_label": "operating context"
     },
@@ -3098,7 +2515,7 @@
       "source_location": "L4",
       "_origin": "ast",
       "id": "product_platform",
-      "community": 8,
+      "community": 4,
       "community_name": "Reyfuu \u2014 product context",
       "norm_label": "platform"
     },
@@ -3110,7 +2527,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "product_positioning",
-      "community": 8,
+      "community": 4,
       "community_name": "Reyfuu \u2014 product context",
       "norm_label": "positioning"
     },
@@ -3122,7 +2539,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "product_product_principles",
-      "community": 8,
+      "community": 4,
       "community_name": "Reyfuu \u2014 product context",
       "norm_label": "product principles"
     },
@@ -3134,7 +2551,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "product_product_purpose",
-      "community": 8,
+      "community": 4,
       "community_name": "Reyfuu \u2014 product context",
       "norm_label": "product purpose"
     },
@@ -3146,7 +2563,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "product_reyfuu_product_context",
-      "community": 8,
+      "community": 4,
       "community_name": "Reyfuu \u2014 product context",
       "norm_label": "reyfuu \u2014 product context"
     },
@@ -3158,9 +2575,306 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "product_users",
-      "community": 8,
+      "community": 4,
       "community_name": "Reyfuu \u2014 product context",
       "norm_label": "users"
+    },
+    {
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "package",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "package.json"
+    },
+    {
+      "label": "engines",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "package_engines",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "engines"
+    },
+    {
+      "label": "node",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L32",
+      "_origin": "ast",
+      "id": "package_engines_node",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "node"
+    },
+    {
+      "label": "name",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "package_name",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "name"
+    },
+    {
+      "label": "private",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "package_private",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "private"
+    },
+    {
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "package_scripts",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "scripts"
+    },
+    {
+      "label": "build",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "package_scripts_build",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "build"
+    },
+    {
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "package_scripts_dev",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "dev"
+    },
+    {
+      "label": "lint",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "package_scripts_lint",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "lint"
+    },
+    {
+      "label": "start",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "package_scripts_start",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "start"
+    },
+    {
+      "label": "sync:github",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "package_scripts_sync_github",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "sync:github"
+    },
+    {
+      "label": "test",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "package_scripts_test",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "test"
+    },
+    {
+      "label": "typecheck",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "package_scripts_typecheck",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "typecheck"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "package_version",
+      "community": 5,
+      "community_name": "scripts",
+      "norm_label": "version"
+    },
+    {
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "package_devdependencies",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "devdependencies"
+    },
+    {
+      "label": "eslint",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "package_devdependencies_eslint",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "eslint"
+    },
+    {
+      "label": "eslint-config-next",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "package_devdependencies_eslint_config_next",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "eslint-config-next"
+    },
+    {
+      "label": "@types/node",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "package_devdependencies_types_node",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "@types/node"
+    },
+    {
+      "label": "@types/react",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L25",
+      "_origin": "ast",
+      "id": "package_devdependencies_types_react",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "@types/react"
+    },
+    {
+      "label": "@types/react-dom",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "package_devdependencies_types_react_dom",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "@types/react-dom"
+    },
+    {
+      "label": "typescript",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L29",
+      "_origin": "ast",
+      "id": "package_devdependencies_typescript",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "typescript"
+    },
+    {
+      "label": "eslint",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "eslint",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "eslint"
+    },
+    {
+      "label": "eslint-config-next",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "eslint_config_next",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "eslint-config-next"
+    },
+    {
+      "label": "@types/node",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "types_node",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "@types/node"
+    },
+    {
+      "label": "@types/react",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L25",
+      "_origin": "ast",
+      "id": "types_react",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "@types/react"
+    },
+    {
+      "label": "@types/react-dom",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "types_react_dom",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "@types/react-dom"
+    },
+    {
+      "label": "typescript",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L29",
+      "_origin": "ast",
+      "id": "typescript",
+      "community": 6,
+      "community_name": "devDependencies",
+      "norm_label": "typescript"
     },
     {
       "label": "main.js",
@@ -3169,9 +2883,295 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "js_main",
-      "community": 9,
+      "community": 7,
       "community_name": "main.js",
       "norm_label": "main.js"
+    },
+    {
+      "label": "layout.tsx",
+      "file_type": "code",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "src_app_layout",
+      "community": 8,
+      "community_name": "layout.tsx",
+      "norm_label": "layout.tsx"
+    },
+    {
+      "label": "jetbrainsMono",
+      "file_type": "code",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "src_app_layout_jetbrainsmono",
+      "community": 8,
+      "community_name": "layout.tsx",
+      "norm_label": "jetbrainsmono"
+    },
+    {
+      "label": "metadata",
+      "file_type": "code",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "src_app_layout_metadata",
+      "community": 8,
+      "community_name": "layout.tsx",
+      "norm_label": "metadata"
+    },
+    {
+      "label": "plusJakarta",
+      "file_type": "code",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "src_app_layout_plusjakarta",
+      "community": 8,
+      "community_name": "layout.tsx",
+      "norm_label": "plusjakarta"
+    },
+    {
+      "label": "viewport",
+      "file_type": "code",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "src_app_layout_viewport",
+      "community": 8,
+      "community_name": "layout.tsx",
+      "norm_label": "viewport"
+    },
+    {
+      "label": "Footer.tsx",
+      "file_type": "code",
+      "source_file": "src/components/Footer.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "src_components_footer",
+      "community": 8,
+      "community_name": "layout.tsx",
+      "norm_label": "footer.tsx"
+    },
+    {
+      "label": "Navbar.tsx",
+      "file_type": "code",
+      "source_file": "src/components/Navbar.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "src_components_navbar",
+      "community": 8,
+      "community_name": "layout.tsx",
+      "norm_label": "navbar.tsx"
+    },
+    {
+      "label": "navItems",
+      "file_type": "code",
+      "source_file": "src/components/Navbar.tsx",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "src_components_navbar_navitems",
+      "community": 8,
+      "community_name": "layout.tsx",
+      "norm_label": "navitems"
+    },
+    {
+      "label": "vite-check/package.json",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "vite_check_package",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "vite-check/package.json"
+    },
+    {
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "vite_check_package_dependencies",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "dependencies"
+    },
+    {
+      "label": "react",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "vite_check_package_dependencies_react",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "react"
+    },
+    {
+      "label": "react-dom",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "vite_check_package_dependencies_react_dom",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "react-dom"
+    },
+    {
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "vite_check_package_devdependencies",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "devdependencies"
+    },
+    {
+      "label": "vite",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "vite_check_package_devdependencies_vite",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "vite"
+    },
+    {
+      "label": "@vitejs/plugin-react",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "vite_check_package_devdependencies_vitejs_plugin_react",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "@vitejs/plugin-react"
+    },
+    {
+      "label": "name",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "vite_check_package_name",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "name"
+    },
+    {
+      "label": "private",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "vite_check_package_private",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "private"
+    },
+    {
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "vite_check_package_scripts",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "scripts"
+    },
+    {
+      "label": "build",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "vite_check_package_scripts_build",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "build"
+    },
+    {
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "vite_check_package_scripts_dev",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "dev"
+    },
+    {
+      "label": "preview",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "vite_check_package_scripts_preview",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "preview"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "vite-check/package.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "vite_check_package_type",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "type"
+    },
+    {
+      "label": "vite",
+      "file_type": "concept",
+      "source_file": "vite-check/package.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "vite",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "vite"
+    },
+    {
+      "label": "react",
+      "file_type": "concept",
+      "source_file": "vite-check/package.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "vite_check_package_json_react",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "react"
+    },
+    {
+      "label": "react-dom",
+      "file_type": "concept",
+      "source_file": "vite-check/package.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "vite_check_package_json_react_dom",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "react-dom"
+    },
+    {
+      "label": "@vitejs/plugin-react",
+      "file_type": "concept",
+      "source_file": "vite-check/package.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "vitejs_plugin_react",
+      "community": 9,
+      "community_name": "vite-check/package.json",
+      "norm_label": "@vitejs/plugin-react"
     }
   ],
   "links": [
@@ -6727,5 +6727,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "35d70eeea62a7ba4c90f75d059a0aad4f5b4bfd8"
+  "built_at_commit": "6c51a78544c7de6a95fbe9258fa2c523399427c3"
 }
