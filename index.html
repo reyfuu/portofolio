@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary Meta Tags -->
+  <title>Reyfuu — AI Agent Engineer & Fullstack Systems Architect</title>
+  <meta name="title" content="Reyfuu — AI Agent Engineer & Fullstack Systems Architect">
+  <meta name="description" content="Portfolio of Reyfuu. Specializing in AI Agents (CrewAI), High-Performance Golang Microservices, NestJS, Fullstack Web, Mobile, and Cloud/DevOps.">
+  <meta name="keywords" content="Reyfuu, AI Engineer, CrewAI, Golang, NestJS, TypeScript, Kubernetes, Fullstack Developer, Software Engineer">
+  <meta name="author" content="Reyfuu">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://github.com/reyfuu">
+  <meta property="og:title" content="Reyfuu — AI Agent Engineer & Fullstack Systems Architect">
+  <meta property="og:description" content="Interactive developer showcase featuring 54+ repositories across AI Agents, Go Microservices, NestJS, Fullstack, and Cloud.">
+  <meta property="og:image" content="https://avatars.githubusercontent.com/u/63893194?v=4">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://github.com/reyfuu">
+  <meta property="twitter:title" content="Reyfuu — AI Agent Engineer & Fullstack Systems Architect">
+  <meta property="twitter:description" content="Interactive developer showcase featuring 54+ repositories across AI Agents, Go Microservices, NestJS, Fullstack, and Cloud.">
+  <meta property="twitter:image" content="https://avatars.githubusercontent.com/u/63893194?v=4">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- CSS Stylesheets -->
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Ambient Particle Canvas & Glow Orbs -->
+  <canvas id="ambient-canvas"></canvas>
+  <div class="bg-glow-orb glow-1"></div>
+  <div class="bg-glow-orb glow-2"></div>
+  <div class="bg-glow-orb glow-3"></div>
+
+  <!-- Navigation Bar -->
+  <header class="navbar">
+    <div class="container nav-container">
+      <a href="#" class="nav-logo" aria-label="Reyfuu Portfolio Home">
+        <span class="logo-badge">RF</span>
+        <span class="logo-text">reyfuu<span style="color: var(--accent-cyan);">.dev</span></span>
+      </a>
+
+      <nav>
+        <ul class="nav-links" id="nav-links">
+          <li><a href="#about" class="nav-link">About</a></li>
+          <li><a href="#skills" class="nav-link">Tech Matrix</a></li>
+          <li><a href="#projects" class="nav-link">Projects</a></li>
+          <li><a href="#philosophy" class="nav-link">Architecture</a></li>
+          <li><a href="#terminal" class="nav-link">CLI Shell</a></li>
+          <li><a href="#contact" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <a href="https://github.com/reyfuu" target="_blank" rel="noopener noreferrer" class="btn btn-outline" style="padding: 8px 16px; font-size: 0.85rem;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+          <span>GitHub</span>
+        </a>
+        <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Toggle Navigation Menu">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- HERO SECTION -->
+    <section class="hero-section" id="about">
+      <div class="container hero-grid">
+        <div class="hero-content">
+          <div class="status-pill animate-float">
+            <span class="status-dot"></span>
+            <span>Available for Agentic AI & Systems Engineering</span>
+          </div>
+
+          <h1 class="hero-title">
+            Architecting <span class="gradient-text">Intelligent AI Agents</span> & Resilient Microservices.
+          </h1>
+
+          <p class="hero-subtitle">
+            Hi, I'm <strong style="color: #fff;">Reyfuu</strong> — a software engineer building autonomous multi-agent pipelines (CrewAI), high-throughput Golang backends, and robust fullstack systems across 54+ production repositories.
+          </p>
+
+          <div class="hero-cta-group">
+            <a href="#projects" class="btn btn-primary">
+              <span>Explore 54+ Projects</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17l9.2-9.2M17 17V8H8"/></svg>
+            </a>
+            <a href="#terminal" class="btn btn-outline">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="4 17 10 11 4 5"/><line x1="12" y1="19" x2="20" y2="19"/></svg>
+              <span>Launch Terminal CLI</span>
+            </a>
+          </div>
+
+          <div class="hero-stats-row">
+            <div class="stat-item glass-card">
+              <div class="stat-number" id="stat-repos">54</div>
+              <div class="stat-label">Public Repositories</div>
+            </div>
+            <div class="stat-item glass-card">
+              <div class="stat-number" id="stat-ai">8+</div>
+              <div class="stat-label">AI & Agent Frameworks</div>
+            </div>
+            <div class="stat-item glass-card">
+              <div class="stat-number" id="stat-langs">7+</div>
+              <div class="stat-label">Core Tech Languages</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="hero-visual">
+          <div class="avatar-card glass-card animate-pulse-glow">
+            <div class="avatar-wrapper">
+              <img src="https://avatars.githubusercontent.com/u/63893194?v=4" alt="Reyfuu Avatar" class="avatar-img">
+              <span class="avatar-tag">@reyfuu</span>
+            </div>
+            <h2 class="avatar-name">Reyfuu</h2>
+            <div class="avatar-handle">GitHub Verified Builder</div>
+            <div class="avatar-bio-pill">
+              <span>⚡ AI Agents • Go • TypeScript • DevOps</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TECH STACK MATRIX SECTION -->
+    <section class="section" id="skills">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">Engineering Matrix</span>
+          <h2 class="section-title">Core Competencies & Stack</h2>
+          <p class="section-desc">
+            A battle-tested technical arsenal across intelligent automation, backend engineering, mobile, and cloud infrastructure.
+          </p>
+        </div>
+
+        <div class="skills-grid">
+          <!-- Skill Card 1: AI -->
+          <div class="skill-card glass-card">
+            <div class="skill-icon-box icon-ai">🤖</div>
+            <h3 class="skill-title">AI & Autonomous Agents</h3>
+            <p class="skill-desc">
+              Building multi-agent task execution systems, intelligent tool-calling workflows, and machine learning classifiers.
+            </p>
+            <div class="skill-tags-cloud">
+              <span class="category-pill cat-ai">CrewAI</span>
+              <span class="category-pill cat-ai">Python</span>
+              <span class="category-pill cat-ai">NLP</span>
+              <span class="category-pill cat-ai">Scikit-Learn</span>
+              <span class="category-pill cat-ai">Agent Tools</span>
+            </div>
+          </div>
+
+          <!-- Skill Card 2: Backend -->
+          <div class="skill-card glass-card">
+            <div class="skill-icon-box icon-backend">⚡</div>
+            <h3 class="skill-title">High-Performance Backend</h3>
+            <p class="skill-desc">
+              Designing low-latency REST APIs, concurrent services with Golang, enterprise NestJS modular architecture, and Laravel portals.
+            </p>
+            <div class="skill-tags-cloud">
+              <span class="category-pill cat-backend">Golang</span>
+              <span class="category-pill cat-backend">NestJS</span>
+              <span class="category-pill cat-backend">TypeScript</span>
+              <span class="category-pill cat-backend">PHP / Laravel</span>
+              <span class="category-pill cat-backend">MySQL / Postgres</span>
+            </div>
+          </div>
+
+          <!-- Skill Card 3: Frontend & Mobile -->
+          <div class="skill-card glass-card">
+            <div class="skill-icon-box icon-frontend">🎨</div>
+            <h3 class="skill-title">Fullstack & Mobile</h3>
+            <p class="skill-desc">
+              Crafting reactive fintech dashboards with Vue.js, type-safe Next.js e-commerce portals, and native Kotlin mobile apps.
+            </p>
+            <div class="skill-tags-cloud">
+              <span class="category-pill cat-frontend">Vue.js</span>
+              <span class="category-pill cat-frontend">React</span>
+              <span class="category-pill cat-frontend">Kotlin Android</span>
+              <span class="category-pill cat-frontend">Tailwind / CSS3</span>
+            </div>
+          </div>
+
+          <!-- Skill Card 4: DevOps & Cloud -->
+          <div class="skill-card glass-card">
+            <div class="skill-icon-box icon-devops">☁️</div>
+            <h3 class="skill-title">DevOps & Systems Architecture</h3>
+            <p class="skill-desc">
+              Orchestrating containerized environments with Kubernetes, headless Docker streaming, Linux networking, and ERD/UML modeling.
+            </p>
+            <div class="skill-tags-cloud">
+              <span class="category-pill cat-devops">Kubernetes</span>
+              <span class="category-pill cat-devops">Docker</span>
+              <span class="category-pill cat-devops">Linux SysAdmin</span>
+              <span class="category-pill cat-devops">ERD / UML</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROJECTS SHOWCASE SECTION -->
+    <section class="section" id="projects">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">Showcase Hub</span>
+          <h2 class="section-title">Flagship Repositories & Prototyping</h2>
+          <p class="section-desc">
+            Explore verified open-source repositories with architectural blueprints and direct GitHub source code links.
+          </p>
+        </div>
+
+        <!-- Controls: Filters & Search -->
+        <div class="projects-controls">
+          <div class="filter-tabs">
+            <button class="filter-btn active" data-filter="all">All (54+)</button>
+            <button class="filter-btn" data-filter="ai">AI & Agents</button>
+            <button class="filter-btn" data-filter="backend">Backend & Go</button>
+            <button class="filter-btn" data-filter="frontend">Fullstack & Mobile</button>
+            <button class="filter-btn" data-filter="devops">DevOps & Systems</button>
+          </div>
+
+          <div class="search-box">
+            <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            <input type="text" id="repo-search" class="search-input" placeholder="Search projects, tags, or stack...">
+          </div>
+        </div>
+
+        <!-- Dynamic Projects Grid -->
+        <div class="projects-grid" id="projects-grid">
+          <!-- Dynamically populated by main.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ARCHITECTURE & PHILOSOPHY SECTION -->
+    <section class="section" id="philosophy">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">Engineering Philosophy</span>
+          <h2 class="section-title">Architectural Principles</h2>
+          <p class="section-desc">
+            How I design and scale maintainable software from concept to production.
+          </p>
+        </div>
+
+        <div class="philosophy-grid">
+          <div class="philosophy-card glass-card">
+            <div class="philosophy-num">01 //</div>
+            <h3 class="philosophy-title">Agentic Autonomy</h3>
+            <p class="philosophy-desc">
+              Moving beyond static prompts by architecting multi-agent collaborative workflows with rigorous validation and tool invocation safeguards.
+            </p>
+          </div>
+
+          <div class="philosophy-card glass-card">
+            <div class="philosophy-num">02 //</div>
+            <h3 class="philosophy-title">Type-Safe & Concurrent</h3>
+            <p class="philosophy-desc">
+              Emphasizing strict static typing with Go and TypeScript, reducing runtime regressions while maximizing concurrency performance.
+            </p>
+          </div>
+
+          <div class="philosophy-card glass-card">
+            <div class="philosophy-num">03 //</div>
+            <h3 class="philosophy-title">Resilience & Clean Decoupling</h3>
+            <p class="philosophy-desc">
+              Zero single points of failure. Every service features automated fallback mechanisms, graceful degradation, and clean domain boundaries.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- DEVELOPER CLI TERMINAL SECTION -->
+    <section class="section terminal-section" id="terminal">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">Interactive Terminal</span>
+          <h2 class="section-title">Developer CLI Shell</h2>
+          <p class="section-desc">
+            Interact with the portfolio via a simulated zsh command-line interface. Type commands to explore repos, skills, or run custom scripts.
+          </p>
+        </div>
+
+        <div class="terminal-card" id="cli-terminal-container">
+          <!-- Rendered by js/terminal.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT & CONNECT SECTION -->
+    <section class="section" id="contact">
+      <div class="container">
+        <div class="contact-card glass-card">
+          <span class="section-tag">Let's Collaborate</span>
+          <h2 class="contact-title">Ready to Build the Future?</h2>
+          <p class="contact-subtitle">
+            Whether you need AI agent orchestration, high-concurrency microservices in Go, or scalable fullstack architectures, let's connect.
+          </p>
+
+          <div class="contact-actions">
+            <a href="https://github.com/reyfuu" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+              <span>Follow @reyfuu on GitHub</span>
+            </a>
+
+            <button class="btn btn-outline" id="copy-contact-btn">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+              <span>Copy Contact Reference</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="copy-toast" id="copy-toast">
+          ✓ Copied GitHub reference to clipboard!
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container footer-content">
+      <p>© 2026 Reyfuu. Engineered with semantic HTML5, Modular CSS & Pure JS.</p>
+      <div class="footer-links">
+        <a href="https://github.com/reyfuu" target="_blank" rel="noopener noreferrer" class="footer-link">GitHub</a>
+        <a href="#about" class="footer-link">Back to Top ↑</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- PROJECT ARCHITECTURAL DETAIL MODAL -->
+  <div class="modal-overlay" id="project-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-content">
+      <button class="modal-close" id="modal-close-btn" aria-label="Close Project Modal">✕</button>
+      <div id="modal-body-content">
+        <!-- Injected via JavaScript -->
+      </div>
+    </div>
+  </div>
+
+  <!-- JavaScript Modules -->
+  <script src="js/projects-data.js"></script>
+  <script src="js/github.js"></script>
+  <script src="js/terminal.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

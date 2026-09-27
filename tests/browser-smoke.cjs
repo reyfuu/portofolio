@@ -1,0 +1,47 @@
+const { chromium } = require(process.env.PLAYWRIGHT_MODULE || 'playwright');
+const assert = require('node:assert/strict');
+(async () => {
+  const browser = await chromium.launch({headless: true});
+  const page = await browser.newPage();
+  const errors = [];
+  page.on('pageerror', e => errors.push(e.message));
+  await page.goto(process.env.PORTFOLIO_URL || 'http://127.0.0.1:3100', {waitUntil:'networkidle'});
+  for (const width of [375, 768, 1280, 1920]) {
+    await page.setViewportSize({width, height:900});
+    assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true, `overflow at ${width}`);
+    await page.screenshot({path:`/tmp/reyfuu-${width}.png`});
+  }
+  assert.equal(await page.locator('#projects button[aria-label^="Details for"]').count(), 6);
+  await page.getByRole('button', {name:'Show more repositories'}).click();
+  assert.equal(await page.locator('#projects button[aria-label^="Details for"]').count(), 12);
+  const search = page.getByRole('searchbox', {name:'Search projects'});
+  await search.fill('no-such-repo-xyz');
+  await page.getByText('No matching projects found').waitFor();
+  await page.getByRole('button', {name:'Reset All Filters'}).click();
+  assert.equal(await page.locator('#projects button[aria-label^="Details for"]').count(), 6);
+  await search.fill('audit');
+  await page.getByRole('button', {name:'Details for audit', exact:true}).click();
+  await page.getByRole('dialog', {name:'audit',exact:true}).waitFor();
+  await page.keyboard.press('Escape');
+  assert.equal(await page.getByRole('dialog').count(),0);
+  await page.waitForFunction(() => document.activeElement?.getAttribute('aria-label') === 'Details for audit');
+  await search.fill('');
+  await page.getByRole('button', {name:'Backend & Go',exact:true}).click();
+  assert.equal(await page.getByRole('button', {name:'Backend & Go',exact:true}).getAttribute('aria-pressed'),'true');
+  await page.locator('#experience summary').last().click();
+  assert.equal(await page.locator('#experience details').last().getAttribute('open'), '');
+  const input=page.getByRole('textbox',{name:'Terminal command'});
+  await page.locator('#terminal summary').click();
+  await input.fill('contact'); await input.press('Enter');
+  assert.ok(await page.locator('#terminal a[href="mailto:audinathanael@gmail.com"]').count());
+  await input.fill('<img>'); await input.press('Enter');
+  assert.equal(await page.locator('#terminal img').count(),0);
+  assert.equal(await page.evaluate(()=>/\p{Extended_Pictographic}/u.test(document.body.innerText)), false);
+  await page.setViewportSize({width:375,height:812});
+  await page.getByRole('button',{name:'Toggle menu'}).click();
+  await page.locator('#mobile-navigation a[href="#experience"]').click();
+  assert.equal(await page.getByRole('button',{name:'Toggle menu'}).getAttribute('aria-expanded'),'false');
+  assert.deepEqual(errors,[]);
+  console.log('PASS: 4 viewport widths, search/reset/filter, native modal/Escape/focus, terminal/email/HTML escaping, mobile navigation, no emoji, no page errors');
+  await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

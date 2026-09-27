@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.git/
+.agents/
+.codex/
+graphify-out/
+.planning/graphs/
+package-lock.json
+*.tsbuildinfo
