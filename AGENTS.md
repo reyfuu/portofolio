@@ -5,7 +5,7 @@
 ## Project map
 
 The active website is Next.js 16 App Router + React 19 + TypeScript + Tailwind 3.
-Node is pinned to 26.10.0 in `.node-version` and `.nvmrc`. Dev/build use Webpack because this environment blocks the local port binding used by Turbopack CSS workers.
+Node is pinned to 24.19.0 in `.node-version` and `.nvmrc`, with `engines.node` set to `24.x` for deployment. Dev/build use Webpack because this environment blocks the local port binding used by Turbopack CSS workers.
 - `src/app/`: page composition, layout and metadata.
 - `src/components/`: navigation, projects, project modal and interactive CLI.
 - `src/styles/`: shared styles and tokens; `tailwind.config.js`: utility mappings.
